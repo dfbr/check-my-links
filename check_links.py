@@ -15,6 +15,9 @@ def run_linkchecker(url, idx):
         "linkchecker",
         url,
         "--output=html",
+        "--threads=8",
+        "--timeout=10",
+        "--ignore-url=.*\\?.*", # should ignore get requests where parameters are set in the URL
         f"--file-output=html/{output_file}"
     ]
     try:
