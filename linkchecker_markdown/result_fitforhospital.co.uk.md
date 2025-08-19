@@ -6,7 +6,7 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2025-08-19 01:05:39+000  
+> Start checking at 2025-08-19 01:09:01+000  
 >  
 >  
 >  URL | `https://fitforhospital.co.uk'  
@@ -14,7 +14,7 @@
 > Real URL| <https://fitforhospital.co.uk>  
 > D/L time| 0.000 seconds  
 > Size| 2KB  
-> Check time| 0.158 seconds  
+> Check time| 0.367 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -33,7 +33,7 @@
 > Parent URL| <https://fitforhospital.co.uk>, line 8, col 3  
 > Real URL| <https://fitforhospital.co.uk/assets/style.css>  
 > Size| 1KB  
-> Check time| 0.487 seconds  
+> Check time| 0.448 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -44,7 +44,7 @@
 > Real URL| <https://fitforhospital.co.uk/feed.xml>  
 > D/L time| 0.000 seconds  
 > Size| 5KB  
-> Check time| 1.012 seconds  
+> Check time| 0.666 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -55,7 +55,19 @@
 > Real URL| <https://fitforhospital.co.uk/>  
 > D/L time| 0.000 seconds  
 > Size| 2KB  
-> Check time| 1.388 seconds  
+> Check time| 1.209 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `/assets/siteImages/fitforhospital.jpeg'  
+> ---|---  
+> Name| `Site logo: hospital with a green tick'  
+> Parent URL| <https://fitforhospital.co.uk>, line 23, col 7  
+> Real URL|
+> <https://fitforhospital.co.uk/assets/siteImages/fitforhospital.jpeg>  
+> Size| 1.17MB  
+> Check time| 1.439 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -67,7 +79,7 @@
 > Real URL| <https://fitforhospital.co.uk/articles/>  
 > D/L time| 0.000 seconds  
 > Size| 1KB  
-> Check time| 1.602 seconds  
+> Check time| 1.888 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -79,7 +91,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 1.759 seconds  
+> Check time| 2.295 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -91,7 +103,7 @@
 > Real URL| <https://fitforhospital.co.uk/contact.html>  
 > D/L time| 0.000 seconds  
 > Size| 1KB  
-> Check time| 2.057 seconds  
+> Check time| 2.727 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -114,7 +126,7 @@
 > Real URL| <https://fitforhospital.co.uk/suggest.html>  
 > D/L time| 0.000 seconds  
 > Size| 1KB  
-> Check time| 2.239 seconds  
+> Check time| 3.002 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -126,19 +138,7 @@
 > Real URL| <https://fitforhospital.co.uk/about.html>  
 > D/L time| 0.000 seconds  
 > Size| 1KB  
-> Check time| 2.514 seconds  
-> Result| Valid: 200 OK  
->  
->  
->  
->  URL | `/assets/siteImages/fitforhospital.jpeg'  
-> ---|---  
-> Name| `Site logo: hospital with a green tick'  
-> Parent URL| <https://fitforhospital.co.uk>, line 23, col 7  
-> Real URL|
-> <https://fitforhospital.co.uk/assets/siteImages/fitforhospital.jpeg>  
-> Size| 1.17MB  
-> Check time| 2.679 seconds  
+> Check time| 3.471 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -150,7 +150,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/pen-and-notebook/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 2.928 seconds  
+> Check time| 3.997 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -174,7 +174,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/kindle/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 2.985 seconds  
+> Check time| 3.942 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -208,7 +208,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/cable-tidies/>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 2.775 seconds  
+> Check time| 4.252 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -240,7 +240,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/short-charging-cable/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 2.940 seconds  
+> Check time| 4.072 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -264,7 +264,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/tablet-stand/>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 3.182 seconds  
+> Check time| 4.094 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -299,7 +299,7 @@
 > Real URL| <https://fitforhospital.co.uk/articles/how-to-be-a-good-visitor/>  
 > D/L time| 0.000 seconds  
 > Size| 6KB  
-> Check time| 3.233 seconds  
+> Check time| 3.965 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -311,7 +311,7 @@
 > Real URL| <https://fitforhospital.co.uk/articles/who-is-in-which-colour/>  
 > D/L time| 0.000 seconds  
 > Size| 8KB  
-> Check time| 3.527 seconds  
+> Check time| 3.691 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -336,7 +336,7 @@
 > hospitals/>  
 > D/L time| 0.000 seconds  
 > Size| 5KB  
-> Check time| 3.580 seconds  
+> Check time| 3.615 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -359,7 +359,7 @@
 > Real URL| <https://fitforhospital.co.uk/articles/visiting-tips/>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 3.720 seconds  
+> Check time| 3.845 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -371,7 +371,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/earplugs/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 4.033 seconds  
+> Check time| 3.836 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -397,7 +397,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/eyemask/>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 4.171 seconds  
+> Check time| 3.879 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -427,7 +427,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/traveltowel/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 4.114 seconds  
+> Check time| 3.901 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -450,7 +450,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/namelabels/>  
 > D/L time| 0.000 seconds  
 > Size| 2KB  
-> Check time| 4.237 seconds  
+> Check time| 3.614 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -473,7 +473,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/container/>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 4.194 seconds  
+> Check time| 3.636 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -507,7 +507,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/suri/>  
 > D/L time| 0.000 seconds  
 > Size| 5KB  
-> Check time| 4.225 seconds  
+> Check time| 3.866 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -533,7 +533,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/largepowerbank/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 4.129 seconds  
+> Check time| 3.812 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -559,7 +559,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/powerbank/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 3.750 seconds  
+> Check time| 4.126 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -586,7 +586,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/long-phone-charging-cable/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 3.959 seconds  
+> Check time| 4.134 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -611,7 +611,7 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/loop-
 > earplugs.webp>  
 > Size| 16.47KB  
-> Check time| 3.484 seconds  
+> Check time| 3.384 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -623,7 +623,7 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/mayfair-
 > eyemask.webp>  
 > Size| 6KB  
-> Check time| 3.246 seconds  
+> Check time| 3.119 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -636,7 +636,7 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/osmo-
 > towel.webp>  
 > Size| 101.03KB  
-> Check time| 2.961 seconds  
+> Check time| 3.147 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -649,7 +649,7 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/name-
 > labels.jpg>  
 > Size| 164.70KB  
-> Check time| 2.860 seconds  
+> Check time| 3.439 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -661,7 +661,7 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/suri-
 > toothbrush.webp>  
 > Size| 21.96KB  
-> Check time| 2.107 seconds  
+> Check time| 2.901 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -674,7 +674,7 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/large-
 > powerbank.jpg>  
 > Size| 56.98KB  
-> Check time| 2.492 seconds  
+> Check time| 3.220 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -687,7 +687,7 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/small-
 > powerbank.jpg>  
 > Size| 48.14KB  
-> Check time| 2.556 seconds  
+> Check time| 2.934 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -697,7 +697,7 @@
 >  URL lengths: min=28, max=704, avg=133.  
 >  
 >  That's it. 54 links checked. 0 warnings found. 0 errors found.  
->  Stopped checking at 2025-08-19 01:05:52+000 (13 seconds)
+>  Stopped checking at 2025-08-19 01:09:16+000 (14 seconds)
 
   
 
