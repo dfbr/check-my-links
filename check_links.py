@@ -15,8 +15,7 @@ def run_linkchecker(url, idx):
         "linkchecker",
         url,
         "--output=html",
-        f"--file-output=html/{output_file}",
-        "--verbose"
+        f"--file-output=html/{output_file}"
     ]
     try:
         subprocess.run(cmd, check=False)
