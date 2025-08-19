@@ -14,7 +14,7 @@ def run_linkchecker(url, idx):
         f"--file-output=html/{output_file}"
     ]
     try:
-        subprocess.run(cmd, check=True)
+        subprocess.run(cmd, check=False)
         print(f"Checked {url}, results in {output_file}")
     except subprocess.CalledProcessError as e:
         print(f"Error checking {url}: {e}")
