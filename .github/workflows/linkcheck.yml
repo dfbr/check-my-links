@@ -18,17 +18,21 @@ jobs:
           python-version: '3.x'
       - name: Install linkchecker
         run: pip install linkchecker
+      - name: Install html2text
+        run: pip install html2text
       - name: Run linkchecker script
         run: python check_links.py
       - name: Commit and push results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add linkchecker_results/
+          git add linkchecker_results/ linkchecker_markdown/
           git commit -m "Update linkchecker results [skip ci]" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
       - name: Upload results
         uses: actions/upload-artifact@v4
         with:
           name: linkchecker-results
-          path: linkchecker_results/
+          path: |
+            linkchecker_results/
+            linkchecker_markdown/
