@@ -6,7 +6,7 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2025-08-26 06:44:03+000  
+> Start checking at 2025-08-27 06:39:00+000  
 >  
 >  
 >  URL | `https://fitforhospital.co.uk'  
@@ -14,7 +14,7 @@
 > Real URL| <https://fitforhospital.co.uk>  
 > D/L time| 0.000 seconds  
 > Size| 2KB  
-> Check time| 0.562 seconds  
+> Check time| 0.275 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -33,7 +33,7 @@
 > Parent URL| <https://fitforhospital.co.uk>, line 8, col 3  
 > Real URL| <https://fitforhospital.co.uk/assets/style.css>  
 > Size| 1KB  
-> Check time| 0.119 seconds  
+> Check time| 0.164 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -43,8 +43,8 @@
 > Parent URL| <https://fitforhospital.co.uk>, line 9, col 3  
 > Real URL| <https://fitforhospital.co.uk/feed.xml>  
 > D/L time| 0.000 seconds  
-> Size| 5KB  
-> Check time| 0.265 seconds  
+> Size| 6KB  
+> Check time| 0.736 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -55,7 +55,7 @@
 > Real URL| <https://fitforhospital.co.uk/>  
 > D/L time| 0.000 seconds  
 > Size| 2KB  
-> Check time| 0.305 seconds  
+> Check time| 0.988 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -67,7 +67,7 @@
 > Real URL|
 > <https://fitforhospital.co.uk/assets/siteImages/fitforhospital.jpeg>  
 > Size| 1.17MB  
-> Check time| 0.650 seconds  
+> Check time| 1.137 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -79,7 +79,7 @@
 > Real URL| <https://fitforhospital.co.uk/articles/>  
 > D/L time| 0.000 seconds  
 > Size| 1KB  
-> Check time| 0.969 seconds  
+> Check time| 1.643 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -91,7 +91,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/>  
 > D/L time| 0.000 seconds  
 > Size| 5KB  
-> Check time| 1.191 seconds  
+> Check time| 1.917 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -103,7 +103,7 @@
 > Real URL| <https://fitforhospital.co.uk/contact.html>  
 > D/L time| 0.000 seconds  
 > Size| 1KB  
-> Check time| 1.635 seconds  
+> Check time| 2.338 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -126,7 +126,7 @@
 > Real URL| <https://fitforhospital.co.uk/suggest.html>  
 > D/L time| 0.000 seconds  
 > Size| 1KB  
-> Check time| 2.204 seconds  
+> Check time| 2.804 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -138,19 +138,60 @@
 > Real URL| <https://fitforhospital.co.uk/about.html>  
 > D/L time| 0.000 seconds  
 > Size| 1KB  
-> Check time| 2.613 seconds  
+> Check time| 2.971 seconds  
 > Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `/products/personal-fan/'  
+> ---|---  
+> Name| `Personal fan'  
+> Parent URL| <https://fitforhospital.co.uk>, line 50, col 5  
+> Real URL| <https://fitforhospital.co.uk/products/personal-fan/>  
+> D/L time| 0.000 seconds  
+> Size| 4KB  
+> Check time| 2.959 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `https://i2.pickpik.com/photos/930/713/192/hand-fan-chinese-japanese-thumb.jpg'  
+> ---|---  
+> Name| `Personal fan'  
+> Parent URL| <https://fitforhospital.co.uk/products/personal-fan/>, line 45,
+> col 5  
+> Real URL| <https://i2.pickpik.com/photos/930/713/192/hand-fan-chinese-
+> japanese-thumb.jpg>  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.amazon.co.uk/EasyAcc-Portable-Handheld-180%C2%B0Foldable-Rechargeable/dp/B0F5G3MPCH?dib=eyJ2IjoiMSJ9.PAtYQ9aR12ZE4_TjANbb_mzVZzz6LK_lwb1Gx9XKtKxoOmyWQ9gt-XWXjfU60vHQomGAIcMvlHKpIL8A6yqPtiIfK2Kz1yMKfGt9mhigshG4XMrD6wowmTJsHx7Qyx3JfLP6A7NcdmNjoiCGRdnOnfa3PfuypyoU4Le0_fxpU388aRyqzVDWQB5Xy8kFLQar1BQhGdSC9JpXzO783K7IhWf48B5zKVBvQkj99Uux1Cs.GMH1IpgUTIUR2BiAcT8AKXQ0hvPalCvjCvL4r0Mg6rg&dib_tag=se&keywords=personal%2Bfan%2Busb%2Bc&qid=1756260743&sr=8-7&th=1&linkCode=ll1&tag=fitforhospita-21&linkId=1aff4e66ee2efa848e3c66dc70bd0204&language=en_GB&ref_=as_li_ss_tl'  
+> ---|---  
+> Name| `Personal fan'  
+> Parent URL| <https://fitforhospital.co.uk/products/personal-fan/>, line 38,
+> col 5  
+> Real URL| [https://www.amazon.co.uk/EasyAcc-Portable-
+> Handheld-180%C2%B0Foldable-
+> Rechargeable/dp/B0F5G3MPCH?dib=eyJ2IjoiMSJ9.PAtYQ9aR12ZE4_TjANbb_mzVZzz6LK_lwb1Gx9XKtKxoOmyWQ9gt-
+> XWXjfU60vHQomGAIcMvlHKpIL8A6yqPtiIfK2Kz1yMKfGt9mhigshG4XMrD6wowmTJsHx7Qyx3JfLP6A7NcdmNjoiCGRdnOnfa3PfuypyoU4Le0_fxpU388aRyqzVDWQB5Xy8kFLQar1BQhGdSC9JpXzO783K7IhWf48B5zKVBvQkj99Uux1Cs.GMH1IpgUTIUR2BiAcT8AKXQ0hvPalCvjCvL4r0Mg6rg&dib_tag=se&keywords=personal%2Bfan%2Busb%2Bc&qid=1756260743&sr=8-7&th=1&linkCode=ll1&tag=fitforhospita-21&linkId=1aff4e66ee2efa848e3c66dc70bd0204&language=en_GB&ref_=as_li_ss_tl](https://www.amazon.co.uk/EasyAcc-
+> Portable-Handheld-180%C2%B0Foldable-
+> Rechargeable/dp/B0F5G3MPCH?dib=eyJ2IjoiMSJ9.PAtYQ9aR12ZE4_TjANbb_mzVZzz6LK_lwb1Gx9XKtKxoOmyWQ9gt-
+> XWXjfU60vHQomGAIcMvlHKpIL8A6yqPtiIfK2Kz1yMKfGt9mhigshG4XMrD6wowmTJsHx7Qyx3JfLP6A7NcdmNjoiCGRdnOnfa3PfuypyoU4Le0_fxpU388aRyqzVDWQB5Xy8kFLQar1BQhGdSC9JpXzO783K7IhWf48B5zKVBvQkj99Uux1Cs.GMH1IpgUTIUR2BiAcT8AKXQ0hvPalCvjCvL4r0Mg6rg&dib_tag=se&keywords=personal%2Bfan%2Busb%2Bc&qid=1756260743&sr=8-7&th=1&linkCode=ll1&tag=fitforhospita-21&linkId=1aff4e66ee2efa848e3c66dc70bd0204&language=en_GB&ref_=as_li_ss_tl)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
 >  
 >  
 >  
 >  URL | `/products/water-bottle/'  
 > ---|---  
 > Name| `Reusable water bottle with straw'  
-> Parent URL| <https://fitforhospital.co.uk>, line 50, col 5  
+> Parent URL| <https://fitforhospital.co.uk>, line 54, col 5  
 > Real URL| <https://fitforhospital.co.uk/products/water-bottle/>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 2.704 seconds  
+> Check time| 3.018 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -191,11 +232,11 @@
 >  URL | `/products/puzzle-book/'  
 > ---|---  
 > Name| `Puzzle book'  
-> Parent URL| <https://fitforhospital.co.uk>, line 54, col 5  
+> Parent URL| <https://fitforhospital.co.uk>, line 58, col 5  
 > Real URL| <https://fitforhospital.co.uk/products/puzzle-book/>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 2.806 seconds  
+> Check time| 3.168 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -235,11 +276,11 @@
 >  URL | `/products/pen-and-notebook/'  
 > ---|---  
 > Name| `Pen and notebook'  
-> Parent URL| <https://fitforhospital.co.uk>, line 58, col 5  
+> Parent URL| <https://fitforhospital.co.uk>, line 62, col 5  
 > Real URL| <https://fitforhospital.co.uk/products/pen-and-notebook/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 2.840 seconds  
+> Check time| 2.800 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -259,11 +300,11 @@
 >  URL | `/products/kindle/'  
 > ---|---  
 > Name| `Kindle e-reader'  
-> Parent URL| <https://fitforhospital.co.uk>, line 62, col 5  
+> Parent URL| <https://fitforhospital.co.uk>, line 66, col 5  
 > Real URL| <https://fitforhospital.co.uk/products/kindle/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 2.868 seconds  
+> Check time| 2.863 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -290,51 +331,6 @@
 >  
 >  
 >  
->  URL | `/products/cable-tidies/'  
-> ---|---  
-> Name| `Cable tidies'  
-> Parent URL| <https://fitforhospital.co.uk>, line 66, col 5  
-> Real URL| <https://fitforhospital.co.uk/products/cable-tidies/>  
-> D/L time| 0.000 seconds  
-> Size| 4KB  
-> Check time| 2.896 seconds  
-> Result| Valid: 200 OK  
->  
->  
->  
->  URL | `https://1.bp.blogspot.com/-bsw_ADbjUzE/TiFf1ZirWRI/AAAAAAAAAM4/2Jdi8LhNAB8/s1600/Velcro-Cable-Tie-5.jpg'  
-> ---|---  
-> Name| `Cable tidies'  
-> Parent URL| <https://fitforhospital.co.uk/products/cable-tidies/>, line 45,
-> col 5  
-> Real URL|
-> <https://1.bp.blogspot.com/-bsw_ADbjUzE/TiFf1ZirWRI/AAAAAAAAAM4/2Jdi8LhNAB8/s1600/Velcro-
-> Cable-Tie-5.jpg>  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.amazon.co.uk/Cable-Matters-100-Pack-Reusable-Strength/dp/B09X1V6MM4?crid=B114C9CH6VKU&dib=eyJ2IjoiMSJ9.-xg8CsE73EMaFugqbOI7zumON95z9bVHA8NMQBM2p0KPRMi0Toe4GZQOrepm3Me6yS0ZLZpOo9SNfwiK16BOYupFj7Q8-C68BFk9RUwzWEbnXj4YS1cJAT5ixtgny7klBkrw6FJHPVmUPPAYG3_WP9PgHvGGVuEqvwyqOsSA3ITS9ktgPMbcq2rbyTdl2veocPvuNji-LUcOybl0QRhFQbxwSMrGcC2-_MxYzaZpiALZU0J04YRwRqmZ31lrLXDzuQEW-T6XSx9HL8WPibqhRxUyZlk69LfVvoUvP6EGtc4.Gnv_pl4ESbyyt-ec_Z9_0QT8NCQXJKpOA-NU4SyNNhk&dib_tag=se&keywords=velcro+cable+ties&qid=1754855231&sprefix=velcro+ca%2Caps%2C96&sr=8-14&linkCode=ll1&tag=fitforhospita-21&linkId=7d2e566555c8003caa1db502db3324fc&language=en_GB&ref_=as_li_ss_tl'  
-> ---|---  
-> Name| `Cable tidies'  
-> Parent URL| <https://fitforhospital.co.uk/products/cable-tidies/>, line 38,
-> col 5  
-> Real URL| [https://www.amazon.co.uk/Cable-Matters-100-Pack-Reusable-
-> Strength/dp/B09X1V6MM4?crid=B114C9CH6VKU&dib=eyJ2IjoiMSJ9.-xg8CsE73EMaFugqbOI7zumON95z9bVHA8NMQBM2p0KPRMi0Toe4GZQOrepm3Me6yS0ZLZpOo9SNfwiK16BOYupFj7Q8-C68BFk9RUwzWEbnXj4YS1cJAT5ixtgny7klBkrw6FJHPVmUPPAYG3_WP9PgHvGGVuEqvwyqOsSA3ITS9ktgPMbcq2rbyTdl2veocPvuNji-
-> LUcOybl0QRhFQbxwSMrGcC2-_MxYzaZpiALZU0J04YRwRqmZ31lrLXDzuQEW-T6XSx9HL8WPibqhRxUyZlk69LfVvoUvP6EGtc4.Gnv_pl4ESbyyt-
-> ec_Z9_0QT8NCQXJKpOA-
-> NU4SyNNhk&dib_tag=se&keywords=velcro%20cable%20ties&qid=1754855231&sprefix=velcro%20ca,aps,96&sr=8-14&linkCode=ll1&tag=fitforhospita-21&linkId=7d2e566555c8003caa1db502db3324fc&language=en_GB&ref_=as_li_ss_tl](https://www.amazon.co.uk/Cable-
-> Matters-100-Pack-Reusable-
-> Strength/dp/B09X1V6MM4?crid=B114C9CH6VKU&dib=eyJ2IjoiMSJ9.-xg8CsE73EMaFugqbOI7zumON95z9bVHA8NMQBM2p0KPRMi0Toe4GZQOrepm3Me6yS0ZLZpOo9SNfwiK16BOYupFj7Q8-C68BFk9RUwzWEbnXj4YS1cJAT5ixtgny7klBkrw6FJHPVmUPPAYG3_WP9PgHvGGVuEqvwyqOsSA3ITS9ktgPMbcq2rbyTdl2veocPvuNji-
-> LUcOybl0QRhFQbxwSMrGcC2-_MxYzaZpiALZU0J04YRwRqmZ31lrLXDzuQEW-T6XSx9HL8WPibqhRxUyZlk69LfVvoUvP6EGtc4.Gnv_pl4ESbyyt-
-> ec_Z9_0QT8NCQXJKpOA-
-> NU4SyNNhk&dib_tag=se&keywords=velcro%20cable%20ties&qid=1754855231&sprefix=velcro%20ca,aps,96&sr=8-14&linkCode=ll1&tag=fitforhospita-21&linkId=7d2e566555c8003caa1db502db3324fc&language=en_GB&ref_=as_li_ss_tl)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `/articles/how-to-be-a-good-visitor/'  
 > ---|---  
 > Name| `How to be a good visitor'  
@@ -342,7 +338,7 @@
 > Real URL| <https://fitforhospital.co.uk/articles/how-to-be-a-good-visitor/>  
 > D/L time| 0.000 seconds  
 > Size| 6KB  
-> Check time| 3.013 seconds  
+> Check time| 2.758 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -354,7 +350,7 @@
 > Real URL| <https://fitforhospital.co.uk/articles/who-is-in-which-colour/>  
 > D/L time| 0.000 seconds  
 > Size| 8KB  
-> Check time| 2.842 seconds  
+> Check time| 2.428 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -377,9 +373,9 @@
 > Parent URL| <https://fitforhospital.co.uk/articles/>, line 50, col 5  
 > Real URL| <https://fitforhospital.co.uk/articles/internet-access-in-
 > hospitals/>  
-> D/L time| 0.001 seconds  
+> D/L time| 0.000 seconds  
 > Size| 5KB  
-> Check time| 2.607 seconds  
+> Check time| 2.287 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -402,7 +398,7 @@
 > Real URL| <https://fitforhospital.co.uk/articles/visiting-tips/>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 2.801 seconds  
+> Check time| 2.196 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -414,7 +410,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/earplugs/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 3.245 seconds  
+> Check time| 2.398 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -440,7 +436,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/eyemask/>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 3.264 seconds  
+> Check time| 2.586 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -470,7 +466,7 @@
 > Real URL| <https://fitforhospital.co.uk/products/traveltowel/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 3.442 seconds  
+> Check time| 2.702 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -489,11 +485,11 @@
 >  URL | `/products/namelabels/'  
 > ---|---  
 > Name| `Name labels'  
-> Parent URL| <https://fitforhospital.co.uk/products/>, line 141, col 11  
+> Parent URL| <https://fitforhospital.co.uk/products/>, line 149, col 11  
 > Real URL| <https://fitforhospital.co.uk/products/namelabels/>  
 > D/L time| 0.000 seconds  
 > Size| 2KB  
-> Check time| 3.762 seconds  
+> Check time| 2.539 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -512,11 +508,11 @@
 >  URL | `/products/container/'  
 > ---|---  
 > Name| `Container to keep your things together'  
-> Parent URL| <https://fitforhospital.co.uk/products/>, line 153, col 11  
+> Parent URL| <https://fitforhospital.co.uk/products/>, line 161, col 11  
 > Real URL| <https://fitforhospital.co.uk/products/container/>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 3.500 seconds  
+> Check time| 2.427 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -555,14 +551,59 @@
 >  
 >  
 >  
+>  URL | `/products/cable-tidies/'  
+> ---|---  
+> Name| `Cable tidies'  
+> Parent URL| <https://fitforhospital.co.uk/products/>, line 173, col 11  
+> Real URL| <https://fitforhospital.co.uk/products/cable-tidies/>  
+> D/L time| 0.000 seconds  
+> Size| 4KB  
+> Check time| 2.785 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `https://1.bp.blogspot.com/-bsw_ADbjUzE/TiFf1ZirWRI/AAAAAAAAAM4/2Jdi8LhNAB8/s1600/Velcro-Cable-Tie-5.jpg'  
+> ---|---  
+> Name| `Cable tidies'  
+> Parent URL| <https://fitforhospital.co.uk/products/cable-tidies/>, line 45,
+> col 5  
+> Real URL|
+> <https://1.bp.blogspot.com/-bsw_ADbjUzE/TiFf1ZirWRI/AAAAAAAAAM4/2Jdi8LhNAB8/s1600/Velcro-
+> Cable-Tie-5.jpg>  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.amazon.co.uk/Cable-Matters-100-Pack-Reusable-Strength/dp/B09X1V6MM4?crid=B114C9CH6VKU&dib=eyJ2IjoiMSJ9.-xg8CsE73EMaFugqbOI7zumON95z9bVHA8NMQBM2p0KPRMi0Toe4GZQOrepm3Me6yS0ZLZpOo9SNfwiK16BOYupFj7Q8-C68BFk9RUwzWEbnXj4YS1cJAT5ixtgny7klBkrw6FJHPVmUPPAYG3_WP9PgHvGGVuEqvwyqOsSA3ITS9ktgPMbcq2rbyTdl2veocPvuNji-LUcOybl0QRhFQbxwSMrGcC2-_MxYzaZpiALZU0J04YRwRqmZ31lrLXDzuQEW-T6XSx9HL8WPibqhRxUyZlk69LfVvoUvP6EGtc4.Gnv_pl4ESbyyt-ec_Z9_0QT8NCQXJKpOA-NU4SyNNhk&dib_tag=se&keywords=velcro+cable+ties&qid=1754855231&sprefix=velcro+ca%2Caps%2C96&sr=8-14&linkCode=ll1&tag=fitforhospita-21&linkId=7d2e566555c8003caa1db502db3324fc&language=en_GB&ref_=as_li_ss_tl'  
+> ---|---  
+> Name| `Cable tidies'  
+> Parent URL| <https://fitforhospital.co.uk/products/cable-tidies/>, line 38,
+> col 5  
+> Real URL| [https://www.amazon.co.uk/Cable-Matters-100-Pack-Reusable-
+> Strength/dp/B09X1V6MM4?crid=B114C9CH6VKU&dib=eyJ2IjoiMSJ9.-xg8CsE73EMaFugqbOI7zumON95z9bVHA8NMQBM2p0KPRMi0Toe4GZQOrepm3Me6yS0ZLZpOo9SNfwiK16BOYupFj7Q8-C68BFk9RUwzWEbnXj4YS1cJAT5ixtgny7klBkrw6FJHPVmUPPAYG3_WP9PgHvGGVuEqvwyqOsSA3ITS9ktgPMbcq2rbyTdl2veocPvuNji-
+> LUcOybl0QRhFQbxwSMrGcC2-_MxYzaZpiALZU0J04YRwRqmZ31lrLXDzuQEW-T6XSx9HL8WPibqhRxUyZlk69LfVvoUvP6EGtc4.Gnv_pl4ESbyyt-
+> ec_Z9_0QT8NCQXJKpOA-
+> NU4SyNNhk&dib_tag=se&keywords=velcro%20cable%20ties&qid=1754855231&sprefix=velcro%20ca,aps,96&sr=8-14&linkCode=ll1&tag=fitforhospita-21&linkId=7d2e566555c8003caa1db502db3324fc&language=en_GB&ref_=as_li_ss_tl](https://www.amazon.co.uk/Cable-
+> Matters-100-Pack-Reusable-
+> Strength/dp/B09X1V6MM4?crid=B114C9CH6VKU&dib=eyJ2IjoiMSJ9.-xg8CsE73EMaFugqbOI7zumON95z9bVHA8NMQBM2p0KPRMi0Toe4GZQOrepm3Me6yS0ZLZpOo9SNfwiK16BOYupFj7Q8-C68BFk9RUwzWEbnXj4YS1cJAT5ixtgny7klBkrw6FJHPVmUPPAYG3_WP9PgHvGGVuEqvwyqOsSA3ITS9ktgPMbcq2rbyTdl2veocPvuNji-
+> LUcOybl0QRhFQbxwSMrGcC2-_MxYzaZpiALZU0J04YRwRqmZ31lrLXDzuQEW-T6XSx9HL8WPibqhRxUyZlk69LfVvoUvP6EGtc4.Gnv_pl4ESbyyt-
+> ec_Z9_0QT8NCQXJKpOA-
+> NU4SyNNhk&dib_tag=se&keywords=velcro%20cable%20ties&qid=1754855231&sprefix=velcro%20ca,aps,96&sr=8-14&linkCode=ll1&tag=fitforhospita-21&linkId=7d2e566555c8003caa1db502db3324fc&language=en_GB&ref_=as_li_ss_tl)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `/products/suri/'  
 > ---|---  
 > Name| `Suri electric toothbrush with travel case'  
-> Parent URL| <https://fitforhospital.co.uk/products/>, line 198, col 11  
+> Parent URL| <https://fitforhospital.co.uk/products/>, line 208, col 11  
 > Real URL| <https://fitforhospital.co.uk/products/suri/>  
 > D/L time| 0.000 seconds  
 > Size| 5KB  
-> Check time| 3.427 seconds  
+> Check time| 2.791 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -584,11 +625,11 @@
 >  URL | `/products/largepowerbank/'  
 > ---|---  
 > Name| `Large powerbank for multiple devices'  
-> Parent URL| <https://fitforhospital.co.uk/products/>, line 237, col 11  
+> Parent URL| <https://fitforhospital.co.uk/products/>, line 249, col 11  
 > Real URL| <https://fitforhospital.co.uk/products/largepowerbank/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 3.591 seconds  
+> Check time| 2.431 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -610,11 +651,11 @@
 >  URL | `/products/powerbank/'  
 > ---|---  
 > Name| `Anker MagGo Power Bank'  
-> Parent URL| <https://fitforhospital.co.uk/products/>, line 245, col 11  
+> Parent URL| <https://fitforhospital.co.uk/products/>, line 257, col 11  
 > Real URL| <https://fitforhospital.co.uk/products/powerbank/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 3.346 seconds  
+> Check time| 2.453 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -637,11 +678,11 @@
 >  URL | `/products/long-phone-charging-cable/'  
 > ---|---  
 > Name| `Long phone charging cable'  
-> Parent URL| <https://fitforhospital.co.uk/products/>, line 257, col 11  
+> Parent URL| <https://fitforhospital.co.uk/products/>, line 269, col 11  
 > Real URL| <https://fitforhospital.co.uk/products/long-phone-charging-cable/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 3.153 seconds  
+> Check time| 2.430 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -661,11 +702,11 @@
 >  URL | `/products/tablet-stand/'  
 > ---|---  
 > Name| `Tablet/iPad stand'  
-> Parent URL| <https://fitforhospital.co.uk/products/>, line 263, col 11  
+> Parent URL| <https://fitforhospital.co.uk/products/>, line 275, col 11  
 > Real URL| <https://fitforhospital.co.uk/products/tablet-stand/>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 3.219 seconds  
+> Check time| 2.664 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -708,11 +749,11 @@
 >  URL | `/products/short-charging-cable/'  
 > ---|---  
 > Name| `Short charging cable'  
-> Parent URL| <https://fitforhospital.co.uk/products/>, line 269, col 11  
+> Parent URL| <https://fitforhospital.co.uk/products/>, line 281, col 11  
 > Real URL| <https://fitforhospital.co.uk/products/short-charging-cable/>  
 > D/L time| 0.000 seconds  
 > Size| 3KB  
-> Check time| 2.820 seconds  
+> Check time| 2.716 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -749,7 +790,7 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/loop-
 > earplugs.webp>  
 > Size| 16.47KB  
-> Check time| 2.751 seconds  
+> Check time| 2.807 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -761,7 +802,7 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/mayfair-
 > eyemask.webp>  
 > Size| 6KB  
-> Check time| 2.678 seconds  
+> Check time| 2.895 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -774,7 +815,7 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/osmo-
 > towel.webp>  
 > Size| 101.03KB  
-> Check time| 2.831 seconds  
+> Check time| 3.126 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -787,7 +828,7 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/name-
 > labels.jpg>  
 > Size| 164.70KB  
-> Check time| 3.063 seconds  
+> Check time| 3.464 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -799,7 +840,7 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/suri-
 > toothbrush.webp>  
 > Size| 21.96KB  
-> Check time| 3.027 seconds  
+> Check time| 3.469 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -812,7 +853,7 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/large-
 > powerbank.jpg>  
 > Size| 56.98KB  
-> Check time| 3.275 seconds  
+> Check time| 3.196 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -825,17 +866,17 @@
 > Real URL| <https://fitforhospital.co.uk/assets/productImages/small-
 > powerbank.jpg>  
 > Size| 48.14KB  
-> Check time| 2.907 seconds  
+> Check time| 2.817 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
 > _Statistics_  
->  Content types: 8 image, 28 text, 0 video, 0 audio, 1 application, 1 mail
-> and 26 other.  
->  URL lengths: min=28, max=704, avg=144.  
+>  Content types: 8 image, 29 text, 0 video, 0 audio, 1 application, 1 mail
+> and 28 other.  
+>  URL lengths: min=28, max=704, avg=148.  
 >  
->  That's it. 64 links checked. 0 warnings found. 0 errors found.  
->  Stopped checking at 2025-08-26 06:44:18+000 (14 seconds)
+>  That's it. 67 links checked. 0 warnings found. 0 errors found.  
+>  Stopped checking at 2025-08-27 06:39:14+000 (13 seconds)
 
   
 
