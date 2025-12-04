@@ -6,7 +6,7 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2025-12-03 06:46:33+000  
+> Start checking at 2025-12-04 06:46:56+000  
 >  
 >  
 >  URL | `https://onlythestoriesyouwant.link'  
@@ -14,7 +14,7 @@
 > Real URL| <https://onlythestoriesyouwant.link>  
 > D/L time| 0.000 seconds  
 > Size| 11.48KB  
-> Check time| 0.342 seconds  
+> Check time| 0.347 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -24,18 +24,7 @@
 > Parent URL| <https://onlythestoriesyouwant.link>, line 5, col 3  
 > Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
 > Size| 211B  
-> Check time| 0.053 seconds  
-> Result| Valid: 200 OK  
->  
->  
->  
->  URL | `images/android-chrome-192x192.png'  
-> ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/images/android-
-> chrome-192x192.png>  
-> Size| 55.88KB  
-> Check time| 0.211 seconds  
+> Check time| 0.465 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -46,7 +35,7 @@
 > Real URL| <https://onlythestoriesyouwant.link/images/android-
 > chrome-512x512.png>  
 > Size| 367.68KB  
-> Check time| 0.754 seconds  
+> Check time| 1.129 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -56,7 +45,18 @@
 > Parent URL| <https://onlythestoriesyouwant.link>, line 11, col 3  
 > Real URL| <https://onlythestoriesyouwant.link/styles.css>  
 > Size| 950B  
-> Check time| 0.860 seconds  
+> Check time| 1.464 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `images/android-chrome-192x192.png'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/images/android-
+> chrome-192x192.png>  
+> Size| 55.88KB  
+> Check time| 1.570 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -66,7 +66,7 @@
 >  URL lengths: min=34, max=68, avg=53.  
 >  
 >  That's it. 5 links checked. 0 warnings found. 0 errors found.  
->  Stopped checking at 2025-12-03 06:46:35+000 (2 seconds)
+>  Stopped checking at 2025-12-04 06:46:59+000 (2 seconds)
 
   
 
