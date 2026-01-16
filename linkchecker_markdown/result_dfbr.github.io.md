@@ -6,7 +6,7 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2026-01-15 06:50:01+000  
+> Start checking at 2026-01-16 06:49:39+000  
 >  
 >  
 >  URL | `https://dfbr.github.io/'  
@@ -14,7 +14,7 @@
 > Real URL| <https://dfbr.github.io/>  
 > D/L time| 0.000 seconds  
 > Size| 5KB  
-> Check time| 0.429 seconds  
+> Check time| 0.214 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -39,16 +39,6 @@
 >  
 >  
 >  
->  URL | `https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js'  
-> ---|---  
-> Parent URL| <https://dfbr.github.io/>, line 7, col 9  
-> Real URL|
-> <https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js>  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css'  
 > ---|---  
 > Parent URL| <https://dfbr.github.io/>, line 5, col 9  
@@ -59,12 +49,22 @@
 >  
 >  
 >  
+>  URL | `https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js'  
+> ---|---  
+> Parent URL| <https://dfbr.github.io/>, line 7, col 9  
+> Real URL|
+> <https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js>  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `favicon.svg'  
 > ---|---  
 > Parent URL| <https://dfbr.github.io/>, line 10, col 9  
 > Real URL| <https://dfbr.github.io/favicon.svg>  
 > Size| 226B  
-> Check time| 0.444 seconds  
+> Check time| 0.345 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -74,7 +74,7 @@
 > Parent URL| <https://dfbr.github.io/>, line 11, col 9  
 > Real URL| <https://dfbr.github.io/favicon.png>  
 > Size| 805B  
-> Check time| 0.683 seconds  
+> Check time| 0.792 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -85,7 +85,7 @@
 > Real URL| <https://dfbr.github.io/index.html>  
 > D/L time| 0.000 seconds  
 > Size| 5KB  
-> Check time| 0.924 seconds  
+> Check time| 0.951 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -97,7 +97,7 @@
 > Real URL| <https://dfbr.github.io/addNewWord.html>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 1.262 seconds  
+> Check time| 1.286 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -109,7 +109,7 @@
 > Real URL| <https://dfbr.github.io/carousel.html>  
 > D/L time| 0.000 seconds  
 > Size| 8KB  
-> Check time| 1.743 seconds  
+> Check time| 1.662 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -130,7 +130,7 @@
 > Real URL| <https://dfbr.github.io/adjectives.html>  
 > D/L time| 0.000 seconds  
 > Size| 29.81KB  
-> Check time| 2.333 seconds  
+> Check time| 2.065 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -2287,7 +2287,7 @@
 > Real URL| <https://dfbr.github.io/adverbs.html>  
 > D/L time| 0.000 seconds  
 > Size| 6KB  
-> Check time| 2.412 seconds  
+> Check time| 2.269 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -2541,7 +2541,7 @@
 > Real URL| <https://dfbr.github.io/conjunctions.html>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 2.622 seconds  
+> Check time| 2.682 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -2619,7 +2619,7 @@
 > Real URL| <https://dfbr.github.io/determiners.html>  
 > D/L time| 0.000 seconds  
 > Size| 5KB  
-> Check time| 2.453 seconds  
+> Check time| 2.734 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -2862,30 +2862,8 @@
 > Real URL| <https://dfbr.github.io/nouns.html>  
 > D/L time| 0.000 seconds  
 > Size| 51.55KB  
-> Check time| 2.345 seconds  
+> Check time| 2.928 seconds  
 > Result| Valid: 200 OK  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=skritt'  
-> ---|---  
-> Name| `skritt'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 71, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=skritt](https://www.ordnett.no/search?language=no&phrase=skritt)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=nummernhet'  
-> ---|---  
-> Name| `nummernhet'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 66, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=nummernhet](https://www.ordnett.no/search?language=no&phrase=nummernhet)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
 >  
 >  
 >  
@@ -2900,221 +2878,221 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=anbud'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=skranke'  
 > ---|---  
-> Name| `anbud'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 56, col 5  
+> Name| `skranke'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 286, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=anbud](https://www.ordnett.no/search?language=no&phrase=anbud)  
+> [https://www.ordnett.no/search?language=no&phrase=skranke](https://www.ordnett.no/search?language=no&phrase=skranke)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=dur'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=skjøt'  
 > ---|---  
-> Name| `dur'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 271, col 5  
+> Name| `skjøt'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 281, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=dur](https://www.ordnett.no/search?language=no&phrase=dur)  
+> [https://www.ordnett.no/search?language=no&phrase=skj%C3%B8t](https://www.ordnett.no/search?language=no&phrase=skj%C3%B8t)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=gjenge'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=omslagsmappe'  
 > ---|---  
-> Name| `gjenge'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 746, col 5  
+> Name| `omslagsmappe'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 491, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=gjenge](https://www.ordnett.no/search?language=no&phrase=gjenge)  
+> [https://www.ordnett.no/search?language=no&phrase=omslagsmappe](https://www.ordnett.no/search?language=no&phrase=omslagsmappe)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=mandelmel'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=ørebetennelse'  
 > ---|---  
-> Name| `mandelmel'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 741, col 5  
+> Name| `ørebetennelse'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 486, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=mandelmel](https://www.ordnett.no/search?language=no&phrase=mandelmel)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%B8rebetennelse](https://www.ordnett.no/search?language=no&phrase=%C3%B8rebetennelse)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=innenriksdepartement'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=betingelse'  
 > ---|---  
-> Name| `innenriksdepartement'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 736, col 5  
+> Name| `betingelse'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 481, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=innenriksdepartement](https://www.ordnett.no/search?language=no&phrase=innenriksdepartement)  
+> [https://www.ordnett.no/search?language=no&phrase=betingelse](https://www.ordnett.no/search?language=no&phrase=betingelse)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=bratte fjell'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=etableringsfase'  
 > ---|---  
-> Name| `bratte fjell'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 731, col 5  
+> Name| `etableringsfase'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 691, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=bratte%20fjell](https://www.ordnett.no/search?language=no&phrase=bratte%20fjell)  
+> [https://www.ordnett.no/search?language=no&phrase=etableringsfase](https://www.ordnett.no/search?language=no&phrase=etableringsfase)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=regjering'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=bombe'  
 > ---|---  
-> Name| `regjering'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 726, col 5  
+> Name| `bombe'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 686, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=regjering](https://www.ordnett.no/search?language=no&phrase=regjering)  
+> [https://www.ordnett.no/search?language=no&phrase=bombe](https://www.ordnett.no/search?language=no&phrase=bombe)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=handel'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=gnål'  
 > ---|---  
-> Name| `handel'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 721, col 5  
+> Name| `gnål'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 896, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=handel](https://www.ordnett.no/search?language=no&phrase=handel)  
+> [https://www.ordnett.no/search?language=no&phrase=gn%C3%A5l](https://www.ordnett.no/search?language=no&phrase=gn%C3%A5l)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=prosent'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=kull'  
 > ---|---  
-> Name| `prosent'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 716, col 5  
+> Name| `kull'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1121, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=prosent](https://www.ordnett.no/search?language=no&phrase=prosent)  
+> [https://www.ordnett.no/search?language=no&phrase=kull](https://www.ordnett.no/search?language=no&phrase=kull)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=onde'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=sjel'  
 > ---|---  
-> Name| `onde'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 711, col 5  
+> Name| `sjel'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1116, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=onde](https://www.ordnett.no/search?language=no&phrase=onde)  
+> [https://www.ordnett.no/search?language=no&phrase=sjel](https://www.ordnett.no/search?language=no&phrase=sjel)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=lukeoppgave'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=politifullmektig'  
 > ---|---  
-> Name| `lukeoppgave'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 706, col 5  
+> Name| `politifullmektig'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1111, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=lukeoppgave](https://www.ordnett.no/search?language=no&phrase=lukeoppgave)  
+> [https://www.ordnett.no/search?language=no&phrase=politifullmektig](https://www.ordnett.no/search?language=no&phrase=politifullmektig)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=kabal'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=grevling'  
 > ---|---  
-> Name| `kabal'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 701, col 5  
+> Name| `grevling'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1256, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=kabal](https://www.ordnett.no/search?language=no&phrase=kabal)  
+> [https://www.ordnett.no/search?language=no&phrase=grevling](https://www.ordnett.no/search?language=no&phrase=grevling)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=forbindelse'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=omgivelse'  
 > ---|---  
-> Name| `forbindelse'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 986, col 5  
+> Name| `omgivelse'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1251, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=forbindelse](https://www.ordnett.no/search?language=no&phrase=forbindelse)  
+> [https://www.ordnett.no/search?language=no&phrase=omgivelse](https://www.ordnett.no/search?language=no&phrase=omgivelse)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=bjørketrær'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=pinsel'  
 > ---|---  
-> Name| `bjørketrær'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1226, col 5  
+> Name| `pinsel'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1466, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=bj%C3%B8rketr%C3%A6r](https://www.ordnett.no/search?language=no&phrase=bj%C3%B8rketr%C3%A6r)  
+> [https://www.ordnett.no/search?language=no&phrase=pinsel](https://www.ordnett.no/search?language=no&phrase=pinsel)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=skar'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=avhør'  
 > ---|---  
-> Name| `skar'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1391, col 5  
+> Name| `avhør'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1696, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=skar](https://www.ordnett.no/search?language=no&phrase=skar)  
+> [https://www.ordnett.no/search?language=no&phrase=avh%C3%B8r](https://www.ordnett.no/search?language=no&phrase=avh%C3%B8r)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=plafeånd'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=utvikling'  
 > ---|---  
-> Name| `plafeånd'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1386, col 5  
+> Name| `utvikling'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1691, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=plafe%C3%A5nd](https://www.ordnett.no/search?language=no&phrase=plafe%C3%A5nd)  
+> [https://www.ordnett.no/search?language=no&phrase=utvikling](https://www.ordnett.no/search?language=no&phrase=utvikling)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=utflukt'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=andel'  
 > ---|---  
-> Name| `utflukt'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1381, col 5  
+> Name| `andel'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1686, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=utflukt](https://www.ordnett.no/search?language=no&phrase=utflukt)  
+> [https://www.ordnett.no/search?language=no&phrase=andel](https://www.ordnett.no/search?language=no&phrase=andel)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=myndighet'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=vits'  
 > ---|---  
-> Name| `myndighet'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1376, col 5  
+> Name| `vits'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1681, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=myndighet](https://www.ordnett.no/search?language=no&phrase=myndighet)  
+> [https://www.ordnett.no/search?language=no&phrase=vits](https://www.ordnett.no/search?language=no&phrase=vits)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=kreft'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=samling'  
 > ---|---  
-> Name| `kreft'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1371, col 5  
+> Name| `samling'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1671, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=kreft](https://www.ordnett.no/search?language=no&phrase=kreft)  
+> [https://www.ordnett.no/search?language=no&phrase=samling](https://www.ordnett.no/search?language=no&phrase=samling)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=tale'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=mønster'  
 > ---|---  
-> Name| `tale'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1636, col 5  
+> Name| `mønster'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1666, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=tale](https://www.ordnett.no/search?language=no&phrase=tale)  
+> [https://www.ordnett.no/search?language=no&phrase=m%C3%B8nster](https://www.ordnett.no/search?language=no&phrase=m%C3%B8nster)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -3219,12 +3197,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=skuff'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=beliggenheten'  
 > ---|---  
-> Name| `skuff'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1746, col 5  
+> Name| `beliggenheten'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1796, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=skuff](https://www.ordnett.no/search?language=no&phrase=skuff)  
+> [https://www.ordnett.no/search?language=no&phrase=beliggenheten](https://www.ordnett.no/search?language=no&phrase=beliggenheten)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -3296,12 +3274,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=tidsramme'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=skuff'  
 > ---|---  
-> Name| `tidsramme'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1706, col 5  
+> Name| `skuff'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1746, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=tidsramme](https://www.ordnett.no/search?language=no&phrase=tidsramme)  
+> [https://www.ordnett.no/search?language=no&phrase=skuff](https://www.ordnett.no/search?language=no&phrase=skuff)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -3313,72 +3291,6 @@
 > Parent URL| <https://dfbr.github.io/nouns.html>, line 1701, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=vitneforklaringe](https://www.ordnett.no/search?language=no&phrase=vitneforklaringe)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=avhør'  
-> ---|---  
-> Name| `avhør'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1696, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=avh%C3%B8r](https://www.ordnett.no/search?language=no&phrase=avh%C3%B8r)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=utvikling'  
-> ---|---  
-> Name| `utvikling'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1691, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=utvikling](https://www.ordnett.no/search?language=no&phrase=utvikling)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=andel'  
-> ---|---  
-> Name| `andel'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1686, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=andel](https://www.ordnett.no/search?language=no&phrase=andel)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=vits'  
-> ---|---  
-> Name| `vits'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1681, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=vits](https://www.ordnett.no/search?language=no&phrase=vits)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=samling'  
-> ---|---  
-> Name| `samling'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1671, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=samling](https://www.ordnett.no/search?language=no&phrase=samling)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=mønster'  
-> ---|---  
-> Name| `mønster'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1666, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=m%C3%B8nster](https://www.ordnett.no/search?language=no&phrase=m%C3%B8nster)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -3428,6 +3340,17 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=tale'  
+> ---|---  
+> Name| `tale'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1636, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=tale](https://www.ordnett.no/search?language=no&phrase=tale)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=skyteepisode'  
 > ---|---  
 > Name| `skyteepisode'  
@@ -3439,12 +3362,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=kjedsomhet'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=tidsramme'  
 > ---|---  
-> Name| `kjedsomhet'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1626, col 5  
+> Name| `tidsramme'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1706, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=kjedsomhet](https://www.ordnett.no/search?language=no&phrase=kjedsomhet)  
+> [https://www.ordnett.no/search?language=no&phrase=tidsramme](https://www.ordnett.no/search?language=no&phrase=tidsramme)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -3637,12 +3560,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=selv'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=kjedsomhet'  
 > ---|---  
-> Name| `selv'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1531, col 5  
+> Name| `kjedsomhet'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1626, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=selv](https://www.ordnett.no/search?language=no&phrase=selv)  
+> [https://www.ordnett.no/search?language=no&phrase=kjedsomhet](https://www.ordnett.no/search?language=no&phrase=kjedsomhet)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -3659,12 +3582,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=beliggenheten'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=teknologi'  
 > ---|---  
-> Name| `beliggenheten'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1796, col 5  
+> Name| `teknologi'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1521, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=beliggenheten](https://www.ordnett.no/search?language=no&phrase=beliggenheten)  
+> [https://www.ordnett.no/search?language=no&phrase=teknologi](https://www.ordnett.no/search?language=no&phrase=teknologi)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -3753,17 +3676,6 @@
 > Parent URL| <https://dfbr.github.io/nouns.html>, line 1471, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=nedgang](https://www.ordnett.no/search?language=no&phrase=nedgang)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=pinsel'  
-> ---|---  
-> Name| `pinsel'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1466, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=pinsel](https://www.ordnett.no/search?language=no&phrase=pinsel)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -3879,12 +3791,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=fangst'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=selv'  
 > ---|---  
-> Name| `fangst'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1401, col 5  
+> Name| `selv'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1531, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=fangst](https://www.ordnett.no/search?language=no&phrase=fangst)  
+> [https://www.ordnett.no/search?language=no&phrase=selv](https://www.ordnett.no/search?language=no&phrase=selv)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -3896,6 +3808,61 @@
 > Parent URL| <https://dfbr.github.io/nouns.html>, line 1396, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=klokskap](https://www.ordnett.no/search?language=no&phrase=klokskap)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=skar'  
+> ---|---  
+> Name| `skar'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1391, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=skar](https://www.ordnett.no/search?language=no&phrase=skar)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=plafeånd'  
+> ---|---  
+> Name| `plafeånd'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1386, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=plafe%C3%A5nd](https://www.ordnett.no/search?language=no&phrase=plafe%C3%A5nd)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=utflukt'  
+> ---|---  
+> Name| `utflukt'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1381, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=utflukt](https://www.ordnett.no/search?language=no&phrase=utflukt)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=fangst'  
+> ---|---  
+> Name| `fangst'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1401, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=fangst](https://www.ordnett.no/search?language=no&phrase=fangst)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=kreft'  
+> ---|---  
+> Name| `kreft'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1371, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=kreft](https://www.ordnett.no/search?language=no&phrase=kreft)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -3989,12 +3956,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=teknologi'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=vannkjele'  
 > ---|---  
-> Name| `teknologi'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1521, col 5  
+> Name| `vannkjele'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1326, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=teknologi](https://www.ordnett.no/search?language=no&phrase=teknologi)  
+> [https://www.ordnett.no/search?language=no&phrase=vannkjele](https://www.ordnett.no/search?language=no&phrase=vannkjele)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4066,12 +4033,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=strøk'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=myndighet'  
 > ---|---  
-> Name| `strøk'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1291, col 5  
+> Name| `myndighet'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1376, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=str%C3%B8k](https://www.ordnett.no/search?language=no&phrase=str%C3%B8k)  
+> [https://www.ordnett.no/search?language=no&phrase=myndighet](https://www.ordnett.no/search?language=no&phrase=myndighet)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4132,34 +4099,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=grevling'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=strøk'  
 > ---|---  
-> Name| `grevling'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1256, col 5  
+> Name| `strøk'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1291, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=grevling](https://www.ordnett.no/search?language=no&phrase=grevling)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=omgivelse'  
-> ---|---  
-> Name| `omgivelse'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1251, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=omgivelse](https://www.ordnett.no/search?language=no&phrase=omgivelse)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=rikdom'  
-> ---|---  
-> Name| `rikdom'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1246, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=rikdom](https://www.ordnett.no/search?language=no&phrase=rikdom)  
+> [https://www.ordnett.no/search?language=no&phrase=str%C3%B8k](https://www.ordnett.no/search?language=no&phrase=str%C3%B8k)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4198,12 +4143,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=murpussing'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=bjørketrær'  
 > ---|---  
-> Name| `murpussing'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1221, col 5  
+> Name| `bjørketrær'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1226, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=murpussing](https://www.ordnett.no/search?language=no&phrase=murpussing)  
+> [https://www.ordnett.no/search?language=no&phrase=bj%C3%B8rketr%C3%A6r](https://www.ordnett.no/search?language=no&phrase=bj%C3%B8rketr%C3%A6r)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=rikdom'  
+> ---|---  
+> Name| `rikdom'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1246, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=rikdom](https://www.ordnett.no/search?language=no&phrase=rikdom)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4231,12 +4187,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=vannkjele'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=støkk'  
 > ---|---  
-> Name| `vannkjele'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1326, col 5  
+> Name| `støkk'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1206, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=vannkjele](https://www.ordnett.no/search?language=no&phrase=vannkjele)  
+> [https://www.ordnett.no/search?language=no&phrase=st%C3%B8kk](https://www.ordnett.no/search?language=no&phrase=st%C3%B8kk)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4253,12 +4209,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=blomst'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=murpussing'  
 > ---|---  
-> Name| `blomst'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1196, col 5  
+> Name| `murpussing'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1221, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=blomst](https://www.ordnett.no/search?language=no&phrase=blomst)  
+> [https://www.ordnett.no/search?language=no&phrase=murpussing](https://www.ordnett.no/search?language=no&phrase=murpussing)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4297,12 +4253,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=underholdning'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=blomst'  
 > ---|---  
-> Name| `underholdning'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1176, col 5  
+> Name| `blomst'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1196, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=underholdning](https://www.ordnett.no/search?language=no&phrase=underholdning)  
+> [https://www.ordnett.no/search?language=no&phrase=blomst](https://www.ordnett.no/search?language=no&phrase=blomst)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4352,12 +4308,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=støkk'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=sirkulsjonssvikt'  
 > ---|---  
-> Name| `støkk'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1206, col 5  
+> Name| `sirkulsjonssvikt'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1151, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=st%C3%B8kk](https://www.ordnett.no/search?language=no&phrase=st%C3%B8kk)  
+> [https://www.ordnett.no/search?language=no&phrase=sirkulsjonssvikt](https://www.ordnett.no/search?language=no&phrase=sirkulsjonssvikt)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4374,12 +4330,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=verk'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=underholdning'  
 > ---|---  
-> Name| `verk'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1141, col 5  
+> Name| `underholdning'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1176, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=verk](https://www.ordnett.no/search?language=no&phrase=verk)  
+> [https://www.ordnett.no/search?language=no&phrase=underholdning](https://www.ordnett.no/search?language=no&phrase=underholdning)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4402,39 +4358,6 @@
 > Parent URL| <https://dfbr.github.io/nouns.html>, line 1131, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=veikant](https://www.ordnett.no/search?language=no&phrase=veikant)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=kull'  
-> ---|---  
-> Name| `kull'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1121, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=kull](https://www.ordnett.no/search?language=no&phrase=kull)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=sjel'  
-> ---|---  
-> Name| `sjel'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1116, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=sjel](https://www.ordnett.no/search?language=no&phrase=sjel)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=politifullmektig'  
-> ---|---  
-> Name| `politifullmektig'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1111, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=politifullmektig](https://www.ordnett.no/search?language=no&phrase=politifullmektig)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4495,12 +4418,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=vitnemål'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=verk'  
 > ---|---  
-> Name| `vitnemål'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1071, col 5  
+> Name| `verk'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1141, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=vitnem%C3%A5l](https://www.ordnett.no/search?language=no&phrase=vitnem%C3%A5l)  
+> [https://www.ordnett.no/search?language=no&phrase=verk](https://www.ordnett.no/search?language=no&phrase=verk)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4550,12 +4473,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=forpliktelse'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=vitnemål'  
 > ---|---  
-> Name| `forpliktelse'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1046, col 5  
+> Name| `vitnemål'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1071, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=forpliktelse](https://www.ordnett.no/search?language=no&phrase=forpliktelse)  
+> [https://www.ordnett.no/search?language=no&phrase=vitnem%C3%A5l](https://www.ordnett.no/search?language=no&phrase=vitnem%C3%A5l)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4605,12 +4528,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=sirkulsjonssvikt'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=tilstedværelse'  
 > ---|---  
-> Name| `sirkulsjonssvikt'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1151, col 5  
+> Name| `tilstedværelse'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1021, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=sirkulsjonssvikt](https://www.ordnett.no/search?language=no&phrase=sirkulsjonssvikt)  
+> [https://www.ordnett.no/search?language=no&phrase=tilstedv%C3%A6relse](https://www.ordnett.no/search?language=no&phrase=tilstedv%C3%A6relse)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4627,12 +4550,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=fastland'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=forpliktelse'  
 > ---|---  
-> Name| `fastland'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1011, col 5  
+> Name| `forpliktelse'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1046, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=fastland](https://www.ordnett.no/search?language=no&phrase=fastland)  
+> [https://www.ordnett.no/search?language=no&phrase=forpliktelse](https://www.ordnett.no/search?language=no&phrase=forpliktelse)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4666,6 +4589,17 @@
 > Parent URL| <https://dfbr.github.io/nouns.html>, line 996, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=taushet](https://www.ordnett.no/search?language=no&phrase=taushet)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=forbindelse'  
+> ---|---  
+> Name| `forbindelse'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 986, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=forbindelse](https://www.ordnett.no/search?language=no&phrase=forbindelse)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4737,12 +4671,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=knokel'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=fastland'  
 > ---|---  
-> Name| `knokel'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 951, col 5  
+> Name| `fastland'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 1011, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=knokel](https://www.ordnett.no/search?language=no&phrase=knokel)  
+> [https://www.ordnett.no/search?language=no&phrase=fastland](https://www.ordnett.no/search?language=no&phrase=fastland)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -4858,17 +4792,6 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=gnål'  
-> ---|---  
-> Name| `gnål'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 896, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=gn%C3%A5l](https://www.ordnett.no/search?language=no&phrase=gn%C3%A5l)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=åttekant'  
 > ---|---  
 > Name| `åttekant'  
@@ -4924,23 +4847,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=tilstedværelse'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=momsbedrageri'  
 > ---|---  
-> Name| `tilstedværelse'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 1021, col 5  
+> Name| `momsbedrageri'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 866, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=tilstedv%C3%A6relse](https://www.ordnett.no/search?language=no&phrase=tilstedv%C3%A6relse)  
+> [https://www.ordnett.no/search?language=no&phrase=momsbedrageri](https://www.ordnett.no/search?language=no&phrase=momsbedrageri)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=myntte'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=knokel'  
 > ---|---  
-> Name| `myntte'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 861, col 5  
+> Name| `knokel'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 951, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=myntte](https://www.ordnett.no/search?language=no&phrase=myntte)  
+> [https://www.ordnett.no/search?language=no&phrase=knokel](https://www.ordnett.no/search?language=no&phrase=knokel)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -5045,23 +4968,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=momsbedrageri'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=takknemlighetsgjeld'  
 > ---|---  
-> Name| `momsbedrageri'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 866, col 5  
+> Name| `takknemlighetsgjeld'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 806, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=momsbedrageri](https://www.ordnett.no/search?language=no&phrase=momsbedrageri)  
+> [https://www.ordnett.no/search?language=no&phrase=takknemlighetsgjeld](https://www.ordnett.no/search?language=no&phrase=takknemlighetsgjeld)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=slag'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=myntte'  
 > ---|---  
-> Name| `slag'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 801, col 5  
+> Name| `myntte'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 861, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=slag](https://www.ordnett.no/search?language=no&phrase=slag)  
+> [https://www.ordnett.no/search?language=no&phrase=myntte](https://www.ordnett.no/search?language=no&phrase=myntte)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -5155,12 +5078,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=takknemlighetsgjeld'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=pengesedle'  
 > ---|---  
-> Name| `takknemlighetsgjeld'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 806, col 5  
+> Name| `pengesedle'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 756, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=takknemlighetsgjeld](https://www.ordnett.no/search?language=no&phrase=takknemlighetsgjeld)  
+> [https://www.ordnett.no/search?language=no&phrase=pengesedle](https://www.ordnett.no/search?language=no&phrase=pengesedle)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -5177,34 +5100,122 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=gjenge'  
+> ---|---  
+> Name| `gjenge'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 746, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=gjenge](https://www.ordnett.no/search?language=no&phrase=gjenge)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=mandelmel'  
+> ---|---  
+> Name| `mandelmel'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 741, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=mandelmel](https://www.ordnett.no/search?language=no&phrase=mandelmel)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=slag'  
+> ---|---  
+> Name| `slag'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 801, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=slag](https://www.ordnett.no/search?language=no&phrase=slag)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=bratte fjell'  
+> ---|---  
+> Name| `bratte fjell'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 731, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=bratte%20fjell](https://www.ordnett.no/search?language=no&phrase=bratte%20fjell)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=regjering'  
+> ---|---  
+> Name| `regjering'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 726, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=regjering](https://www.ordnett.no/search?language=no&phrase=regjering)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=handel'  
+> ---|---  
+> Name| `handel'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 721, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=handel](https://www.ordnett.no/search?language=no&phrase=handel)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=prosent'  
+> ---|---  
+> Name| `prosent'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 716, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=prosent](https://www.ordnett.no/search?language=no&phrase=prosent)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=onde'  
+> ---|---  
+> Name| `onde'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 711, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=onde](https://www.ordnett.no/search?language=no&phrase=onde)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=lukeoppgave'  
+> ---|---  
+> Name| `lukeoppgave'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 706, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=lukeoppgave](https://www.ordnett.no/search?language=no&phrase=lukeoppgave)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=kabal'  
+> ---|---  
+> Name| `kabal'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 701, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=kabal](https://www.ordnett.no/search?language=no&phrase=kabal)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=heksagon'  
 > ---|---  
 > Name| `heksagon'  
 > Parent URL| <https://dfbr.github.io/nouns.html>, line 696, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=heksagon](https://www.ordnett.no/search?language=no&phrase=heksagon)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=etableringsfase'  
-> ---|---  
-> Name| `etableringsfase'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 691, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=etableringsfase](https://www.ordnett.no/search?language=no&phrase=etableringsfase)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=bombe'  
-> ---|---  
-> Name| `bombe'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 686, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=bombe](https://www.ordnett.no/search?language=no&phrase=bombe)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -5243,12 +5254,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=gjerningsperson'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=innenriksdepartement'  
 > ---|---  
-> Name| `gjerningsperson'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 666, col 5  
+> Name| `innenriksdepartement'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 736, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=gjerningsperson](https://www.ordnett.no/search?language=no&phrase=gjerningsperson)  
+> [https://www.ordnett.no/search?language=no&phrase=innenriksdepartement](https://www.ordnett.no/search?language=no&phrase=innenriksdepartement)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -5419,23 +5430,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=pengesedle'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=ærefrykt'  
 > ---|---  
-> Name| `pengesedle'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 756, col 5  
+> Name| `ærefrykt'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 586, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=pengesedle](https://www.ordnett.no/search?language=no&phrase=pengesedle)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A6refrykt](https://www.ordnett.no/search?language=no&phrase=%C3%A6refrykt)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=embetsverk'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=gjerningsperson'  
 > ---|---  
-> Name| `embetsverk'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 581, col 5  
+> Name| `gjerningsperson'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 666, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=embetsverk](https://www.ordnett.no/search?language=no&phrase=embetsverk)  
+> [https://www.ordnett.no/search?language=no&phrase=gjerningsperson](https://www.ordnett.no/search?language=no&phrase=gjerningsperson)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -5485,12 +5496,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=lur'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=embetsverk'  
 > ---|---  
-> Name| `lur'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 551, col 5  
+> Name| `embetsverk'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 581, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=lur](https://www.ordnett.no/search?language=no&phrase=lur)  
+> [https://www.ordnett.no/search?language=no&phrase=embetsverk](https://www.ordnett.no/search?language=no&phrase=embetsverk)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -5606,39 +5617,6 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=omslagsmappe'  
-> ---|---  
-> Name| `omslagsmappe'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 491, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=omslagsmappe](https://www.ordnett.no/search?language=no&phrase=omslagsmappe)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=ørebetennelse'  
-> ---|---  
-> Name| `ørebetennelse'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 486, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%B8rebetennelse](https://www.ordnett.no/search?language=no&phrase=%C3%B8rebetennelse)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=betingelse'  
-> ---|---  
-> Name| `betingelse'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 481, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=betingelse](https://www.ordnett.no/search?language=no&phrase=betingelse)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=krage'  
 > ---|---  
 > Name| `krage'  
@@ -5672,12 +5650,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=fylke'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=lur'  
 > ---|---  
-> Name| `fylke'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 461, col 5  
+> Name| `lur'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 551, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=fylke](https://www.ordnett.no/search?language=no&phrase=fylke)  
+> [https://www.ordnett.no/search?language=no&phrase=lur](https://www.ordnett.no/search?language=no&phrase=lur)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -5727,12 +5705,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=klager'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=fylke'  
 > ---|---  
-> Name| `klager'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 431, col 5  
+> Name| `fylke'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 461, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=klager](https://www.ordnett.no/search?language=no&phrase=klager)  
+> [https://www.ordnett.no/search?language=no&phrase=fylke](https://www.ordnett.no/search?language=no&phrase=fylke)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -5782,23 +5760,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=sårbarhet'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=klager'  
 > ---|---  
-> Name| `sårbarhet'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 406, col 5  
+> Name| `klager'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 431, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=s%C3%A5rbarhet](https://www.ordnett.no/search?language=no&phrase=s%C3%A5rbarhet)  
+> [https://www.ordnett.no/search?language=no&phrase=klager](https://www.ordnett.no/search?language=no&phrase=klager)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=ærefrykt'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=forkjøp'  
 > ---|---  
-> Name| `ærefrykt'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 586, col 5  
+> Name| `forkjøp'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 401, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A6refrykt](https://www.ordnett.no/search?language=no&phrase=%C3%A6refrykt)  
+> [https://www.ordnett.no/search?language=no&phrase=forkj%C3%B8p](https://www.ordnett.no/search?language=no&phrase=forkj%C3%B8p)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -5925,12 +5903,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=velte'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=sårbarhet'  
 > ---|---  
-> Name| `velte'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 341, col 5  
+> Name| `sårbarhet'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 406, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=velte](https://www.ordnett.no/search?language=no&phrase=velte)  
+> [https://www.ordnett.no/search?language=no&phrase=s%C3%A5rbarhet](https://www.ordnett.no/search?language=no&phrase=s%C3%A5rbarhet)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -6035,34 +6013,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=skranke'  
-> ---|---  
-> Name| `skranke'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 286, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=skranke](https://www.ordnett.no/search?language=no&phrase=skranke)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=skjøt'  
-> ---|---  
-> Name| `skjøt'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 281, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=skj%C3%B8t](https://www.ordnett.no/search?language=no&phrase=skj%C3%B8t)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=forferdelse'  
 > ---|---  
 > Name| `forferdelse'  
 > Parent URL| <https://dfbr.github.io/nouns.html>, line 276, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=forferdelse](https://www.ordnett.no/search?language=no&phrase=forferdelse)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=dur'  
+> ---|---  
+> Name| `dur'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 271, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=dur](https://www.ordnett.no/search?language=no&phrase=dur)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -6090,12 +6057,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=gods'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=velte'  
 > ---|---  
-> Name| `gods'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 256, col 5  
+> Name| `velte'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 341, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=gods](https://www.ordnett.no/search?language=no&phrase=gods)  
+> [https://www.ordnett.no/search?language=no&phrase=velte](https://www.ordnett.no/search?language=no&phrase=velte)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -6255,12 +6222,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=tilfelle'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=gods'  
 > ---|---  
-> Name| `tilfelle'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 181, col 5  
+> Name| `gods'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 256, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=tilfelle](https://www.ordnett.no/search?language=no&phrase=tilfelle)  
+> [https://www.ordnett.no/search?language=no&phrase=gods](https://www.ordnett.no/search?language=no&phrase=gods)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -6310,12 +6277,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=lyseforurensning'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=tilfelle'  
 > ---|---  
-> Name| `lyseforurensning'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 156, col 5  
+> Name| `tilfelle'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 181, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=lyseforurensning](https://www.ordnett.no/search?language=no&phrase=lyseforurensning)  
+> [https://www.ordnett.no/search?language=no&phrase=tilfelle](https://www.ordnett.no/search?language=no&phrase=tilfelle)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -6409,12 +6376,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=mengde'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=lyseforurensning'  
 > ---|---  
-> Name| `mengde'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 111, col 5  
+> Name| `lyseforurensning'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 156, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=mengde](https://www.ordnett.no/search?language=no&phrase=mengde)  
+> [https://www.ordnett.no/search?language=no&phrase=lyseforurensning](https://www.ordnett.no/search?language=no&phrase=lyseforurensning)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -6486,23 +6453,56 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=forkjøp'  
-> ---|---  
-> Name| `forkjøp'  
-> Parent URL| <https://dfbr.github.io/nouns.html>, line 401, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=forkj%C3%B8p](https://www.ordnett.no/search?language=no&phrase=forkj%C3%B8p)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=hofte'  
 > ---|---  
 > Name| `hofte'  
 > Parent URL| <https://dfbr.github.io/nouns.html>, line 76, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=hofte](https://www.ordnett.no/search?language=no&phrase=hofte)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=skritt'  
+> ---|---  
+> Name| `skritt'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 71, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=skritt](https://www.ordnett.no/search?language=no&phrase=skritt)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=nummernhet'  
+> ---|---  
+> Name| `nummernhet'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 66, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=nummernhet](https://www.ordnett.no/search?language=no&phrase=nummernhet)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=anbud'  
+> ---|---  
+> Name| `anbud'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 56, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=anbud](https://www.ordnett.no/search?language=no&phrase=anbud)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=mengde'  
+> ---|---  
+> Name| `mengde'  
+> Parent URL| <https://dfbr.github.io/nouns.html>, line 111, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=mengde](https://www.ordnett.no/search?language=no&phrase=mengde)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -6515,7 +6515,7 @@
 > Real URL| <https://dfbr.github.io/prepositions.html>  
 > D/L time| 0.000 seconds  
 > Size| 4KB  
-> Check time| 2.375 seconds  
+> Check time| 3.055 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -6549,7 +6549,7 @@
 > Real URL| <https://dfbr.github.io/pronouns.html>  
 > D/L time| 0.000 seconds  
 > Size| 6KB  
-> Check time| 2.239 seconds  
+> Check time| 2.908 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -6587,12 +6587,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=hen'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=vi'  
 > ---|---  
-> Name| `hen'  
-> Parent URL| <https://dfbr.github.io/pronouns.html>, line 127, col 5  
+> Name| `vi'  
+> Parent URL| <https://dfbr.github.io/pronouns.html>, line 115, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=hen](https://www.ordnett.no/search?language=no&phrase=hen)  
+> [https://www.ordnett.no/search?language=no&phrase=vi](https://www.ordnett.no/search?language=no&phrase=vi)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -6620,12 +6620,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=han'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=hen'  
 > ---|---  
-> Name| `han'  
-> Parent URL| <https://dfbr.github.io/pronouns.html>, line 99, col 5  
+> Name| `hen'  
+> Parent URL| <https://dfbr.github.io/pronouns.html>, line 127, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=han](https://www.ordnett.no/search?language=no&phrase=han)  
+> [https://www.ordnett.no/search?language=no&phrase=hen](https://www.ordnett.no/search?language=no&phrase=hen)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -6642,12 +6642,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=hun'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=de'  
 > ---|---  
-> Name| `hun'  
-> Parent URL| <https://dfbr.github.io/pronouns.html>, line 91, col 5  
+> Name| `de'  
+> Parent URL| <https://dfbr.github.io/pronouns.html>, line 123, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=hun](https://www.ordnett.no/search?language=no&phrase=hun)  
+> [https://www.ordnett.no/search?language=no&phrase=de](https://www.ordnett.no/search?language=no&phrase=de)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -6675,12 +6675,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=dem'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=deg%20selv'  
 > ---|---  
-> Name| `dem'  
-> Parent URL| <https://dfbr.github.io/pronouns.html>, line 79, col 5  
+> Name| `deg selv'  
+> Parent URL| <https://dfbr.github.io/pronouns.html>, line 119, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=dem](https://www.ordnett.no/search?language=no&phrase=dem)  
+> [https://www.ordnett.no/search?language=no&phrase=deg%20selv](https://www.ordnett.no/search?language=no&phrase=deg%20selv)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -6708,6 +6708,39 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=han'  
+> ---|---  
+> Name| `han'  
+> Parent URL| <https://dfbr.github.io/pronouns.html>, line 99, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=han](https://www.ordnett.no/search?language=no&phrase=han)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=hun'  
+> ---|---  
+> Name| `hun'  
+> Parent URL| <https://dfbr.github.io/pronouns.html>, line 91, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=hun](https://www.ordnett.no/search?language=no&phrase=hun)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=dem'  
+> ---|---  
+> Name| `dem'  
+> Parent URL| <https://dfbr.github.io/pronouns.html>, line 79, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=dem](https://www.ordnett.no/search?language=no&phrase=dem)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=mine'  
 > ---|---  
 > Name| `mine'  
@@ -6730,39 +6763,6 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=vi'  
-> ---|---  
-> Name| `vi'  
-> Parent URL| <https://dfbr.github.io/pronouns.html>, line 115, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=vi](https://www.ordnett.no/search?language=no&phrase=vi)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=de'  
-> ---|---  
-> Name| `de'  
-> Parent URL| <https://dfbr.github.io/pronouns.html>, line 123, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=de](https://www.ordnett.no/search?language=no&phrase=de)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=deg%20selv'  
-> ---|---  
-> Name| `deg selv'  
-> Parent URL| <https://dfbr.github.io/pronouns.html>, line 119, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=deg%20selv](https://www.ordnett.no/search?language=no&phrase=deg%20selv)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `verbs.html'  
 > ---|---  
 > Name| `Verbs'  
@@ -6770,149 +6770,138 @@
 > Real URL| <https://dfbr.github.io/verbs.html>  
 > D/L time| 0.000 seconds  
 > Size| 34.83KB  
-> Check time| 2.334 seconds  
+> Check time| 2.803 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20overføre'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20klare'  
 > ---|---  
-> Name| `å overføre'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 111, col 5  
+> Name| `å klare'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 207, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overf%C3%B8re](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overf%C3%B8re)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20klare](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20klare)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20plage'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20knytte'  
 > ---|---  
-> Name| `å plage'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 107, col 5  
+> Name| `å knytte'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 203, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20plage](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20plage)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20knytte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20knytte)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20dreie%20seg%20om'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20vare%20(varte%20(det%20varte%20fra%20...%20til%20...))'  
 > ---|---  
-> Name| `å dreie seg om'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 103, col 5  
+> Name| `å vare (varte (det varte fra ... til ...))'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 199, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dreie%20seg%20om](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dreie%20seg%20om)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vare%20%28varte%20%28det%20varte%20fra%20...%20til%20...%29%29](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vare%20%28varte%20%28det%20varte%20fra%20...%20til%20...%29%29)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20overvintre'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20vedde'  
 > ---|---  
-> Name| `å overvintre'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 99, col 5  
+> Name| `å vedde'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 195, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overvintre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overvintre)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vedde](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vedde)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20sladre'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tattovere'  
 > ---|---  
-> Name| `å sladre'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 95, col 5  
+> Name| `å tattovere'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 191, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sladre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sladre)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tattovere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tattovere)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20strikke'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20trekke'  
 > ---|---  
-> Name| `å strikke'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 91, col 5  
+> Name| `å trekke'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 187, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20strikke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20strikke)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20trekke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20trekke)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20frede'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20forestille%20seg%20noe'  
 > ---|---  
-> Name| `å frede'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 87, col 5  
+> Name| `å forestille seg noe'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 335, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20frede](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20frede)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forestille%20seg%20noe](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forestille%20seg%20noe)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20granske'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20stikke%20av'  
 > ---|---  
-> Name| `å granske'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 295, col 5  
+> Name| `å stikke av'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 331, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20granske](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20granske)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stikke%20av](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stikke%20av)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tomme'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tippe'  
 > ---|---  
-> Name| `å tomme'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 635, col 5  
+> Name| `å tippe'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 327, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tomme](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tomme)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tippe](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tippe)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20forstyrre%20(seg)'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20rakke'  
 > ---|---  
-> Name| `å forstyrre (seg)'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 791, col 5  
+> Name| `å rakke'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 591, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forstyrre%20%28seg%29](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forstyrre%20%28seg%29)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20rakke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20rakke)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20bryte'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20påvirke'  
 > ---|---  
-> Name| `å bryte'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 787, col 5  
+> Name| `å påvirke'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 583, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bryte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bryte)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20p%C3%A5virke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20p%C3%A5virke)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20nevne'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20nytte'  
 > ---|---  
-> Name| `å nevne'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 783, col 5  
+> Name| `å nytte'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 951, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20nevne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20nevne)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20hekke'  
-> ---|---  
-> Name| `å hekke'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 947, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20hekke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20hekke)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20nytte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20nytte)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7039,23 +7028,89 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skyve'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20antaste'  
 > ---|---  
-> Name| `å skyve'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 895, col 5  
+> Name| `å antaste'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 971, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skyve](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skyve)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20antaste](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20antaste)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20innføre'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20smøre'  
 > ---|---  
-> Name| `å innføre'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 891, col 5  
+> Name| `å smøre'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 967, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20innf%C3%B8re](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20innf%C3%B8re)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sm%C3%B8re](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sm%C3%B8re)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20hekke'  
+> ---|---  
+> Name| `å hekke'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 947, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20hekke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20hekke)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20klage%20over'  
+> ---|---  
+> Name| `å klage over'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 963, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20klage%20over](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20klage%20over)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20avskilte'  
+> ---|---  
+> Name| `å avskilte'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 879, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20avskilte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20avskilte)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20gå%20ned'  
+> ---|---  
+> Name| `å gå ned'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 875, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20g%C3%A5%20ned](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20g%C3%A5%20ned)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20finnes'  
+> ---|---  
+> Name| `å finnes'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 867, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20finnes](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20finnes)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skylde'  
+> ---|---  
+> Name| `å skylde'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 863, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skylde](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skylde)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7083,199 +7138,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20avskilte'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20innføre'  
 > ---|---  
-> Name| `å avskilte'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 879, col 5  
+> Name| `å innføre'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 891, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20avskilte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20avskilte)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20innf%C3%B8re](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20innf%C3%B8re)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20antaste'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skyve'  
 > ---|---  
-> Name| `å antaste'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 971, col 5  
+> Name| `å skyve'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 895, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20antaste](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20antaste)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20finnes'  
-> ---|---  
-> Name| `å finnes'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 867, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20finnes](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20finnes)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20nytte'  
-> ---|---  
-> Name| `å nytte'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 951, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20nytte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20nytte)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20klage%20over'  
-> ---|---  
-> Name| `å klage over'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 963, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20klage%20over](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20klage%20over)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20smøre'  
-> ---|---  
-> Name| `å smøre'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 967, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sm%C3%B8re](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sm%C3%B8re)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20betraket'  
-> ---|---  
-> Name| `å betraket'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 851, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20betraket](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20betraket)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20gå%20ned'  
-> ---|---  
-> Name| `å gå ned'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 875, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20g%C3%A5%20ned](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20g%C3%A5%20ned)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tilpasse%20seg'  
-> ---|---  
-> Name| `å tilpasse seg'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 859, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tilpasse%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tilpasse%20seg)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20forandre'  
-> ---|---  
-> Name| `å forandre'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 855, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forandre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forandre)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20himle'  
-> ---|---  
-> Name| `å himle'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 835, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20himle](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20himle)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skylde'  
-> ---|---  
-> Name| `å skylde'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 863, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skylde](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skylde)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20forene'  
-> ---|---  
-> Name| `å forene'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 827, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forene](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forene)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20dytte'  
-> ---|---  
-> Name| `å dytte'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 823, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dytte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dytte)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20late'  
-> ---|---  
-> Name| `å late'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 819, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20late](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20late)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20forrådne'  
-> ---|---  
-> Name| `å forrådne'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 847, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forr%C3%A5dne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forr%C3%A5dne)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20krangle'  
-> ---|---  
-> Name| `å krangle'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 807, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20krangle](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20krangle)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20fukte'  
-> ---|---  
-> Name| `å fukte'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 831, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20fukte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20fukte)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skyve](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skyve)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7303,56 +7182,78 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skjønne'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20himle'  
 > ---|---  
-> Name| `å skjønne'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 779, col 5  
+> Name| `å himle'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 835, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skj%C3%B8nne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skj%C3%B8nne)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20himle](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20himle)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20oppdage'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20fukte'  
 > ---|---  
-> Name| `å oppdage'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 815, col 5  
+> Name| `å fukte'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 831, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20oppdage](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20oppdage)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20fukte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20fukte)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20hende%20seg'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tilpasse%20seg'  
 > ---|---  
-> Name| `å hende seg'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 771, col 5  
+> Name| `å tilpasse seg'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 859, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20hende%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20hende%20seg)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tilpasse%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tilpasse%20seg)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20setter%20fra%20seg'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20forandre'  
 > ---|---  
-> Name| `å setter fra seg'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 767, col 5  
+> Name| `å forandre'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 855, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20setter%20fra%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20setter%20fra%20seg)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forandre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forandre)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20matte'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20betraket'  
 > ---|---  
-> Name| `å matte'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 763, col 5  
+> Name| `å betraket'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 851, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20matte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20matte)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20betraket](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20betraket)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20forrådne'  
+> ---|---  
+> Name| `å forrådne'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 847, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forr%C3%A5dne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forr%C3%A5dne)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20krangle'  
+> ---|---  
+> Name| `å krangle'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 807, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20krangle](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20krangle)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7369,6 +7270,127 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20etterfølge'  
+> ---|---  
+> Name| `å etterfølge'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 799, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20etterf%C3%B8lge](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20etterf%C3%B8lge)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20henvende%20seg%20(til%20noen)'  
+> ---|---  
+> Name| `å henvende seg (til noen)'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 795, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20henvende%20seg%20%28til%20noen%29](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20henvende%20seg%20%28til%20noen%29)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20late'  
+> ---|---  
+> Name| `å late'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 819, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20late](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20late)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20bryte'  
+> ---|---  
+> Name| `å bryte'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 787, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bryte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bryte)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20forene'  
+> ---|---  
+> Name| `å forene'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 827, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forene](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forene)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20oppdage'  
+> ---|---  
+> Name| `å oppdage'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 815, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20oppdage](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20oppdage)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20dytte'  
+> ---|---  
+> Name| `å dytte'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 823, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dytte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dytte)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20hende%20seg'  
+> ---|---  
+> Name| `å hende seg'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 771, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20hende%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20hende%20seg)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20forstyrre%20(seg)'  
+> ---|---  
+> Name| `å forstyrre (seg)'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 791, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forstyrre%20%28seg%29](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forstyrre%20%28seg%29)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20matte'  
+> ---|---  
+> Name| `å matte'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 763, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20matte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20matte)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20stille%20ut%20(noe)'  
+> ---|---  
+> Name| `å stille ut (noe)'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 759, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stille%20ut%20%28noe%29](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stille%20ut%20%28noe%29)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tusle'  
 > ---|---  
 > Name| `å tusle'  
@@ -7380,23 +7402,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20ikke%20endre'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20nevne'  
 > ---|---  
-> Name| `å ikke endre'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 747, col 5  
+> Name| `å nevne'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 783, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20ikke%20endre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20ikke%20endre)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20nevne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20nevne)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20fundere'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20kvitte%20seg%20med'  
 > ---|---  
-> Name| `å fundere'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 743, col 5  
+> Name| `å kvitte seg med'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 775, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20fundere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20fundere)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20kvitte%20seg%20med](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20kvitte%20seg%20med)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7413,23 +7435,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20slå%20i%20hjel'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skjønne'  
 > ---|---  
-> Name| `å slå i hjel'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 735, col 5  
+> Name| `å skjønne'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 779, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sl%C3%A5%20i%20hjel](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sl%C3%A5%20i%20hjel)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skj%C3%B8nne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skj%C3%B8nne)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20regne'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20setter%20fra%20seg'  
 > ---|---  
-> Name| `å regne'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 731, col 5  
+> Name| `å setter fra seg'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 767, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20regne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20regne)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20setter%20fra%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20setter%20fra%20seg)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7457,12 +7479,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20stille%20ut%20(noe)'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20ikke%20endre'  
 > ---|---  
-> Name| `å stille ut (noe)'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 759, col 5  
+> Name| `å ikke endre'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 747, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stille%20ut%20%28noe%29](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stille%20ut%20%28noe%29)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20ikke%20endre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20ikke%20endre)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7479,34 +7501,34 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20henvende%20seg%20(til%20noen)'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20fundere'  
 > ---|---  
-> Name| `å henvende seg (til noen)'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 795, col 5  
+> Name| `å fundere'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 743, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20henvende%20seg%20%28til%20noen%29](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20henvende%20seg%20%28til%20noen%29)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20fundere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20fundere)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20etterfølge'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20drepe'  
 > ---|---  
-> Name| `å etterfølge'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 799, col 5  
+> Name| `å drepe'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 699, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20etterf%C3%B8lge](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20etterf%C3%B8lge)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20drepe](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20drepe)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20kvitte%20seg%20med'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20slå%20i%20hjel'  
 > ---|---  
-> Name| `å kvitte seg med'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 775, col 5  
+> Name| `å slå i hjel'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 735, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20kvitte%20seg%20med](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20kvitte%20seg%20med)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sl%C3%A5%20i%20hjel](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sl%C3%A5%20i%20hjel)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7523,12 +7545,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20begrunne'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20regne'  
 > ---|---  
-> Name| `å begrunne'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 715, col 5  
+> Name| `å regne'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 731, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20begrunne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20begrunne)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20regne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20regne)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7545,12 +7567,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20lykkes'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20begrunne'  
 > ---|---  
-> Name| `å lykkes'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 679, col 5  
+> Name| `å begrunne'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 715, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20lykkes](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20lykkes)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20begrunne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20begrunne)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7578,6 +7600,17 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20bevare'  
+> ---|---  
+> Name| `å bevare'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 667, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bevare](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bevare)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=å%20nekte'  
 > ---|---  
 > Name| `å nekte'  
@@ -7589,23 +7622,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tape'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tjene'  
 > ---|---  
-> Name| `å tape'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 663, col 5  
+> Name| `å tjene'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 659, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tape](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tape)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20drepe'  
-> ---|---  
-> Name| `å drepe'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 699, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20drepe](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20drepe)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tjene](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tjene)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7644,6 +7666,17 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20lykkes'  
+> ---|---  
+> Name| `å lykkes'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 679, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20lykkes](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20lykkes)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=å%20fakke'  
 > ---|---  
 > Name| `å fakke'  
@@ -7655,12 +7688,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20reke'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tape'  
 > ---|---  
-> Name| `å reke'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 631, col 5  
+> Name| `å tape'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 663, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20reke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20reke)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tape](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tape)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7677,23 +7710,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20bevare'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20burde'  
 > ---|---  
-> Name| `å bevare'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 667, col 5  
+> Name| `å burde'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 655, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bevare](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bevare)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20burde](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20burde)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tjene'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20avfyre'  
 > ---|---  
-> Name| `å tjene'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 659, col 5  
+> Name| `å avfyre'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 611, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tjene](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tjene)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20avfyre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20avfyre)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7732,122 +7765,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20burde'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tomme'  
 > ---|---  
-> Name| `å burde'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 655, col 5  
+> Name| `å tomme'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 635, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20burde](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20burde)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20rakke'  
-> ---|---  
-> Name| `å rakke'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 591, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20rakke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20rakke)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20gli'  
-> ---|---  
-> Name| `å gli'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 615, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20gli](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20gli)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20avfyre'  
-> ---|---  
-> Name| `å avfyre'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 611, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20avfyre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20avfyre)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20stamme'  
-> ---|---  
-> Name| `å stamme'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 575, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stamme](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stamme)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20hende'  
-> ---|---  
-> Name| `å hende'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 571, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20hende](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20hende)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20slippe'  
-> ---|---  
-> Name| `å slippe'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 603, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20slippe](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20slippe)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20koke'  
-> ---|---  
-> Name| `å koke'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 563, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20koke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20koke)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20påvirke'  
-> ---|---  
-> Name| `å påvirke'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 583, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20p%C3%A5virke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20p%C3%A5virke)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20plyndre'  
-> ---|---  
-> Name| `å plyndre'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 555, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20plyndre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20plyndre)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20munne'  
-> ---|---  
-> Name| `å munne'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 595, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20munne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20munne)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tomme](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tomme)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7864,6 +7787,94 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20reke'  
+> ---|---  
+> Name| `å reke'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 631, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20reke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20reke)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20hende'  
+> ---|---  
+> Name| `å hende'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 571, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20hende](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20hende)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20gli'  
+> ---|---  
+> Name| `å gli'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 615, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20gli](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20gli)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20koke'  
+> ---|---  
+> Name| `å koke'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 563, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20koke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20koke)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20slippe'  
+> ---|---  
+> Name| `å slippe'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 603, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20slippe](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20slippe)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20munne'  
+> ---|---  
+> Name| `å munne'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 595, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20munne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20munne)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20befinne%20seg'  
+> ---|---  
+> Name| `å befinne seg'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 551, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20befinne%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20befinne%20seg)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20stamme'  
+> ---|---  
+> Name| `å stamme'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 575, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stamme](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stamme)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skyte'  
 > ---|---  
 > Name| `å skyte'  
@@ -7875,23 +7886,23 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20variere'  
+> ---|---  
+> Name| `å variere'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 539, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20variere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20variere)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=å%20avgjøre'  
 > ---|---  
 > Name| `å avgjøre'  
 > Parent URL| <https://dfbr.github.io/verbs.html>, line 567, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20avgj%C3%B8re](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20avgj%C3%B8re)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20bry%20seg'  
-> ---|---  
-> Name| `å bry seg'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 535, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bry%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bry%20seg)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7930,45 +7941,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20unnsklyde%20seg'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20plyndre'  
 > ---|---  
-> Name| `å unnsklyde seg'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 519, col 5  
+> Name| `å plyndre'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 555, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20unnsklyde%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20unnsklyde%20seg)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20befinne%20seg'  
-> ---|---  
-> Name| `å befinne seg'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 551, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20befinne%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20befinne%20seg)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20variere'  
-> ---|---  
-> Name| `å variere'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 539, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20variere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20variere)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skille'  
-> ---|---  
-> Name| `å skille'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 507, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skille](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skille)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20plyndre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20plyndre)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -7985,61 +7963,6 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20overbevise'  
-> ---|---  
-> Name| `å overbevise'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 527, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overbevise](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overbevise)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20morjonere'  
-> ---|---  
-> Name| `å morjonere'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 495, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20morjonere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20morjonere)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20dokke'  
-> ---|---  
-> Name| `å dokke'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 491, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dokke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dokke)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20blomstre'  
-> ---|---  
-> Name| `å blomstre'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 515, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20blomstre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20blomstre)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20kranse'  
-> ---|---  
-> Name| `å kranse'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 483, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20kranse](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20kranse)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=å%20plystre'  
 > ---|---  
 > Name| `å plystre'  
@@ -8051,12 +7974,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20frastjale'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20bry%20seg'  
 > ---|---  
-> Name| `å frastjale'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 475, col 5  
+> Name| `å bry seg'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 535, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20frastjale](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20frastjale)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bry%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bry%20seg)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -8073,12 +7996,34 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20begeistre'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20rå'  
 > ---|---  
-> Name| `å begeistre'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 467, col 5  
+> Name| `å rå'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 499, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20begeistre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20begeistre)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20r%C3%A5](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20r%C3%A5)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20morjonere'  
+> ---|---  
+> Name| `å morjonere'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 495, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20morjonere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20morjonere)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20overbevise'  
+> ---|---  
+> Name| `å overbevise'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 527, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overbevise](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overbevise)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -8095,100 +8040,67 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20rå'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20kranse'  
 > ---|---  
-> Name| `å rå'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 499, col 5  
+> Name| `å kranse'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 483, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20r%C3%A5](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20r%C3%A5)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20kranse](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20kranse)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20introdusere'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20unnsklyde%20seg'  
 > ---|---  
-> Name| `å introdusere'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 471, col 5  
+> Name| `å unnsklyde seg'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 519, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20introdusere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20introdusere)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20unnsklyde%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20unnsklyde%20seg)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20bre%20seg'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20blomstre'  
 > ---|---  
-> Name| `å bre seg'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 451, col 5  
+> Name| `å blomstre'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 515, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bre%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bre%20seg)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20blomstre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20blomstre)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20styrte'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skille'  
 > ---|---  
-> Name| `å styrte'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 479, col 5  
+> Name| `å skille'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 507, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20styrte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20styrte)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skille](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skille)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20sprette'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20begeistre'  
 > ---|---  
-> Name| `å sprette'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 443, col 5  
+> Name| `å begeistre'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 467, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sprette](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sprette)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20begeistre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20begeistre)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20falle'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20dokke'  
 > ---|---  
-> Name| `å falle'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 439, col 5  
+> Name| `å dokke'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 491, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20falle](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20falle)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20lune'  
-> ---|---  
-> Name| `å lune'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 435, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20lune](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20lune)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20oppfatte'  
-> ---|---  
-> Name| `å oppfatte'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 463, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20oppfatte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20oppfatte)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skapt'  
-> ---|---  
-> Name| `å skapt'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 427, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skapt](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skapt)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dokke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dokke)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -8216,6 +8128,94 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20bre%20seg'  
+> ---|---  
+> Name| `å bre seg'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 451, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bre%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bre%20seg)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20styrte'  
+> ---|---  
+> Name| `å styrte'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 479, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20styrte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20styrte)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20frastjale'  
+> ---|---  
+> Name| `å frastjale'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 475, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20frastjale](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20frastjale)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20falle'  
+> ---|---  
+> Name| `å falle'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 439, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20falle](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20falle)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20introdusere'  
+> ---|---  
+> Name| `å introdusere'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 471, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20introdusere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20introdusere)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20holde%20seg%20stabilt'  
+> ---|---  
+> Name| `å holde seg stabilt'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 431, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20holde%20seg%20stabilt](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20holde%20seg%20stabilt)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20oppfatte'  
+> ---|---  
+> Name| `å oppfatte'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 463, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20oppfatte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20oppfatte)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20utforske'  
+> ---|---  
+> Name| `å utforske'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 423, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20utforske](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20utforske)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=å%20lange%20etter'  
 > ---|---  
 > Name| `å lange etter'  
@@ -8227,12 +8227,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20egne'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20donere'  
 > ---|---  
-> Name| `å egne'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 411, col 5  
+> Name| `å donere'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 415, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20egne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20egne)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20donere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20donere)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20sprette'  
+> ---|---  
+> Name| `å sprette'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 443, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sprette](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sprette)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -8260,23 +8271,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20holde%20seg%20stabilt'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20lune'  
 > ---|---  
-> Name| `å holde seg stabilt'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 431, col 5  
+> Name| `å lune'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 435, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20holde%20seg%20stabilt](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20holde%20seg%20stabilt)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20lune](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20lune)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20antyde'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skapt'  
 > ---|---  
-> Name| `å antyde'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 391, col 5  
+> Name| `å skapt'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 427, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20antyde](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20antyde)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skapt](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skapt)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -8293,12 +8304,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20stige'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20egne'  
 > ---|---  
-> Name| `å stige'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 383, col 5  
+> Name| `å egne'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 411, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stige](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stige)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20egne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20egne)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -8315,100 +8326,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20donere'  
-> ---|---  
-> Name| `å donere'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 415, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20donere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20donere)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20utforske'  
-> ---|---  
-> Name| `å utforske'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 423, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20utforske](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20utforske)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20innvandre'  
-> ---|---  
-> Name| `å innvandre'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 363, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20innvandre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20innvandre)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20gå%20glipp%20av%20noe'  
-> ---|---  
-> Name| `å gå glipp av noe'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 387, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20g%C3%A5%20glipp%20av%20noe](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20g%C3%A5%20glipp%20av%20noe)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20reagere'  
-> ---|---  
-> Name| `å reagere'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 399, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20reagere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20reagere)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20formidle'  
-> ---|---  
-> Name| `å formidle'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 351, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20formidle](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20formidle)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20gå%20opp'  
-> ---|---  
-> Name| `å gå opp'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 359, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20g%C3%A5%20opp](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20g%C3%A5%20opp)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=å%20vedta'  
 > ---|---  
 > Name| `å vedta'  
 > Parent URL| <https://dfbr.github.io/verbs.html>, line 375, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vedta](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vedta)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20undersøke'  
-> ---|---  
-> Name| `å undersøke'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 355, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20unders%C3%B8ke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20unders%C3%B8ke)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -8425,23 +8348,78 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20stikke%20av'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20innvandre'  
 > ---|---  
-> Name| `å stikke av'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 331, col 5  
+> Name| `å innvandre'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 363, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stikke%20av](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stikke%20av)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20innvandre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20innvandre)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tippe'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20reagere'  
 > ---|---  
-> Name| `å tippe'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 327, col 5  
+> Name| `å reagere'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 399, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tippe](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tippe)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20reagere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20reagere)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20gå%20glipp%20av%20noe'  
+> ---|---  
+> Name| `å gå glipp av noe'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 387, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20g%C3%A5%20glipp%20av%20noe](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20g%C3%A5%20glipp%20av%20noe)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20stige'  
+> ---|---  
+> Name| `å stige'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 383, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stige](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stige)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20antyde'  
+> ---|---  
+> Name| `å antyde'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 391, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20antyde](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20antyde)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=bryte'  
+> ---|---  
+> Name| `bryte'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 343, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=bryte](https://www.ordnett.no/search?language=no&phrase=bryte)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20trives'  
+> ---|---  
+> Name| `å trives'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 339, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20trives](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20trives)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -8464,6 +8442,116 @@
 > Parent URL| <https://dfbr.github.io/verbs.html>, line 319, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20teste](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20teste)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20gå%20opp'  
+> ---|---  
+> Name| `å gå opp'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 359, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20g%C3%A5%20opp](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20g%C3%A5%20opp)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20undersøke'  
+> ---|---  
+> Name| `å undersøke'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 355, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20unders%C3%B8ke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20unders%C3%B8ke)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20formidle'  
+> ---|---  
+> Name| `å formidle'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 351, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20formidle](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20formidle)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20stykke'  
+> ---|---  
+> Name| `å stykke'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 347, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stykke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stykke)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tilfredstille'  
+> ---|---  
+> Name| `å tilfredstille'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 299, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tilfredstille](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tilfredstille)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20granske'  
+> ---|---  
+> Name| `å granske'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 295, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20granske](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20granske)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20overse'  
+> ---|---  
+> Name| `å overse'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 291, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overse](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overse)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20fnise'  
+> ---|---  
+> Name| `å fnise'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 287, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20fnise](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20fnise)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20briljere'  
+> ---|---  
+> Name| `å briljere'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 283, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20briljere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20briljere)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20nippe'  
+> ---|---  
+> Name| `å nippe'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 303, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20nippe](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20nippe)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -8502,111 +8590,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20nippe'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=bestå'  
 > ---|---  
-> Name| `å nippe'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 303, col 5  
+> Name| `bestå'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 263, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20nippe](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20nippe)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tilfredstille'  
-> ---|---  
-> Name| `å tilfredstille'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 299, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tilfredstille](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tilfredstille)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20forestille%20seg%20noe'  
-> ---|---  
-> Name| `å forestille seg noe'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 335, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forestille%20seg%20noe](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forestille%20seg%20noe)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20stykke'  
-> ---|---  
-> Name| `å stykke'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 347, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stykke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stykke)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20briljere'  
-> ---|---  
-> Name| `å briljere'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 283, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20briljere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20briljere)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=bryte'  
-> ---|---  
-> Name| `bryte'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 343, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=bryte](https://www.ordnett.no/search?language=no&phrase=bryte)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20trives'  
-> ---|---  
-> Name| `å trives'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 339, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20trives](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20trives)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20forsere'  
-> ---|---  
-> Name| `å forsere'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 271, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forsere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forsere)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20minstenke'  
-> ---|---  
-> Name| `å minstenke'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 267, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20minstenke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20minstenke)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20overse'  
-> ---|---  
-> Name| `å overse'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 291, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overse](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overse)  
+> [https://www.ordnett.no/search?language=no&phrase=best%C3%A5](https://www.ordnett.no/search?language=no&phrase=best%C3%A5)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -8623,23 +8612,78 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=bestå'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20innhold'  
 > ---|---  
-> Name| `bestå'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 263, col 5  
+> Name| `å innhold'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 255, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=best%C3%A5](https://www.ordnett.no/search?language=no&phrase=best%C3%A5)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20innhold](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20innhold)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20fnise'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tromme'  
 > ---|---  
-> Name| `å fnise'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 287, col 5  
+> Name| `å tromme'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 251, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20fnise](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20fnise)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tromme](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tromme)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20traske'  
+> ---|---  
+> Name| `å traske'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 247, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20traske](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20traske)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20vurdere'  
+> ---|---  
+> Name| `å vurdere'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 243, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vurdere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vurdere)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20stelle'  
+> ---|---  
+> Name| `å stelle'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 239, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stelle](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stelle)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20forsere'  
+> ---|---  
+> Name| `å forsere'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 271, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forsere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20forsere)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20bekymre%20seg'  
+> ---|---  
+> Name| `å bekymre seg'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 231, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bekymre%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bekymre%20seg)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -8667,12 +8711,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20stelle'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20minstenke'  
 > ---|---  
-> Name| `å stelle'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 239, col 5  
+> Name| `å minstenke'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 267, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stelle](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20stelle)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20minstenke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20minstenke)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20bry%20seg%20om'  
+> ---|---  
+> Name| `å bry seg om'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 215, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bry%20seg%20om](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bry%20seg%20om)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -8689,138 +8744,6 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20bekymre%20seg'  
-> ---|---  
-> Name| `å bekymre seg'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 231, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bekymre%20seg](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bekymre%20seg)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20åpenbare'  
-> ---|---  
-> Name| `å åpenbare'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 227, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20%C3%A5penbare](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20%C3%A5penbare)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20undervurdere'  
-> ---|---  
-> Name| `å undervurdere'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 223, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20undervurdere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20undervurdere)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skade'  
-> ---|---  
-> Name| `å skade'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 219, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skade](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skade)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20traske'  
-> ---|---  
-> Name| `å traske'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 247, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20traske](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20traske)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20la%20igjen'  
-> ---|---  
-> Name| `å la igjen'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 211, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20la%20igjen](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20la%20igjen)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20klare'  
-> ---|---  
-> Name| `å klare'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 207, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20klare](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20klare)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20knytte'  
-> ---|---  
-> Name| `å knytte'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 203, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20knytte](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20knytte)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20vare%20(varte%20(det%20varte%20fra%20...%20til%20...))'  
-> ---|---  
-> Name| `å vare (varte (det varte fra ... til ...))'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 199, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vare%20%28varte%20%28det%20varte%20fra%20...%20til%20...%29%29](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vare%20%28varte%20%28det%20varte%20fra%20...%20til%20...%29%29)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20vedde'  
-> ---|---  
-> Name| `å vedde'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 195, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vedde](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vedde)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tattovere'  
-> ---|---  
-> Name| `å tattovere'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 191, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tattovere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tattovere)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20trekke'  
-> ---|---  
-> Name| `å trekke'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 187, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20trekke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20trekke)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=å%20bosette%20seg'  
 > ---|---  
 > Name| `å bosette seg'  
@@ -8832,45 +8755,45 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20tromme'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20handle'  
 > ---|---  
-> Name| `å tromme'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 251, col 5  
+> Name| `å handle'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 179, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tromme](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20tromme)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20handle](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20handle)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20innhold'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20følge'  
 > ---|---  
-> Name| `å innhold'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 255, col 5  
+> Name| `å følge'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 175, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20innhold](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20innhold)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20f%C3%B8lge](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20f%C3%B8lge)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20vurdere'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20føre'  
 > ---|---  
-> Name| `å vurdere'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 243, col 5  
+> Name| `å føre'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 171, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vurdere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20vurdere)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20f%C3%B8re](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20f%C3%B8re)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20bry%20seg%20om'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20arrangere'  
 > ---|---  
-> Name| `å bry seg om'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 215, col 5  
+> Name| `å arrangere'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 167, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bry%20seg%20om](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20bry%20seg%20om)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20arrangere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20arrangere)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9008,83 +8931,6 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20føre'  
-> ---|---  
-> Name| `å føre'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 171, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20f%C3%B8re](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20f%C3%B8re)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20følge'  
-> ---|---  
-> Name| `å følge'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 175, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20f%C3%B8lge](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20f%C3%B8lge)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20handle'  
-> ---|---  
-> Name| `å handle'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 179, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20handle](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20handle)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20gnale'  
-> ---|---  
-> Name| `å gnale'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 75, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20gnale](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20gnale)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20grundere'  
-> ---|---  
-> Name| `å grundere'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 71, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20grundere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20grundere)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20arrangere'  
-> ---|---  
-> Name| `å arrangere'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 167, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20arrangere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20arrangere)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skylte%20inn'  
-> ---|---  
-> Name| `å skylte inn'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 63, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skylte%20inn](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skylte%20inn)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skye%20over'  
 > ---|---  
 > Name| `å skye over'  
@@ -9096,23 +8942,78 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20dyrke'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20overføre'  
 > ---|---  
-> Name| `å dyrke'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 55, col 5  
+> Name| `å overføre'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 111, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dyrke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dyrke)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overf%C3%B8re](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overf%C3%B8re)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20evne'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20plage'  
 > ---|---  
-> Name| `å evne'  
-> Parent URL| <https://dfbr.github.io/verbs.html>, line 59, col 5  
+> Name| `å plage'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 107, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20evne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20evne)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20plage](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20plage)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20åpenbare'  
+> ---|---  
+> Name| `å åpenbare'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 227, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20%C3%A5penbare](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20%C3%A5penbare)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20la%20igjen'  
+> ---|---  
+> Name| `å la igjen'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 211, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20la%20igjen](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20la%20igjen)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20sladre'  
+> ---|---  
+> Name| `å sladre'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 95, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sladre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sladre)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20strikke'  
+> ---|---  
+> Name| `å strikke'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 91, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20strikke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20strikke)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20undervurdere'  
+> ---|---  
+> Name| `å undervurdere'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 223, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20undervurdere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20undervurdere)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9129,12 +9030,89 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20overvintre'  
+> ---|---  
+> Name| `å overvintre'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 99, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overvintre](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20overvintre)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skade'  
+> ---|---  
+> Name| `å skade'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 219, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skade](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skade)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20grundere'  
+> ---|---  
+> Name| `å grundere'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 71, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20grundere](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20grundere)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=å%20rette'  
 > ---|---  
 > Name| `å rette'  
 > Parent URL| <https://dfbr.github.io/verbs.html>, line 67, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20rette](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20rette)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20skylte%20inn'  
+> ---|---  
+> Name| `å skylte inn'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 63, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skylte%20inn](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20skylte%20inn)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20dreie%20seg%20om'  
+> ---|---  
+> Name| `å dreie seg om'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 103, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dreie%20seg%20om](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dreie%20seg%20om)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20dyrke'  
+> ---|---  
+> Name| `å dyrke'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 55, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dyrke](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20dyrke)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20frede'  
+> ---|---  
+> Name| `å frede'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 87, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20frede](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20frede)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9151,6 +9129,28 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20gnale'  
+> ---|---  
+> Name| `å gnale'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 75, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20gnale](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20gnale)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20evne'  
+> ---|---  
+> Name| `å evne'  
+> Parent URL| <https://dfbr.github.io/verbs.html>, line 59, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20evne](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20evne)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `subjunctions.html'  
 > ---|---  
 > Name| `Subjunctions'  
@@ -9158,28 +9158,50 @@
 > Real URL| <https://dfbr.github.io/subjunctions.html>  
 > D/L time| 0.000 seconds  
 > Size| 6KB  
-> Check time| 2.109 seconds  
+> Check time| 2.792 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=om'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=till%20tross%20for%20at'  
 > ---|---  
-> Name| `om'  
-> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 147, col 5  
+> Name| `till tross for at'  
+> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 103, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=om](https://www.ordnett.no/search?language=no&phrase=om)  
+> [https://www.ordnett.no/search?language=no&phrase=till%20tross%20for%20at](https://www.ordnett.no/search?language=no&phrase=till%20tross%20for%20at)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=dersom'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=selv%20om'  
 > ---|---  
-> Name| `dersom'  
-> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 143, col 5  
+> Name| `selv om'  
+> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 99, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=dersom](https://www.ordnett.no/search?language=no&phrase=dersom)  
+> [https://www.ordnett.no/search?language=no&phrase=selv%20om](https://www.ordnett.no/search?language=no&phrase=selv%20om)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=slik%20som'  
+> ---|---  
+> Name| `slik som'  
+> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 95, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=slik%20som](https://www.ordnett.no/search?language=no&phrase=slik%20som)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=slik%20at'  
+> ---|---  
+> Name| `slik at'  
+> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 91, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=slik%20at](https://www.ordnett.no/search?language=no&phrase=slik%20at)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9229,34 +9251,23 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=enda'  
+> ---|---  
+> Name| `enda'  
+> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 111, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=enda](https://www.ordnett.no/search?language=no&phrase=enda)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=idet'  
 > ---|---  
 > Name| `idet'  
 > Parent URL| <https://dfbr.github.io/subjunctions.html>, line 107, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=idet](https://www.ordnett.no/search?language=no&phrase=idet)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=till%20tross%20for%20at'  
-> ---|---  
-> Name| `till tross for at'  
-> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 103, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=till%20tross%20for%20at](https://www.ordnett.no/search?language=no&phrase=till%20tross%20for%20at)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=selv%20om'  
-> ---|---  
-> Name| `selv om'  
-> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 99, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=selv%20om](https://www.ordnett.no/search?language=no&phrase=selv%20om)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9284,34 +9295,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=mens'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=dersom'  
 > ---|---  
-> Name| `mens'  
-> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 83, col 5  
+> Name| `dersom'  
+> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 143, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=mens](https://www.ordnett.no/search?language=no&phrase=mens)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=enda'  
-> ---|---  
-> Name| `enda'  
-> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 111, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=enda](https://www.ordnett.no/search?language=no&phrase=enda)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=slik%20at'  
-> ---|---  
-> Name| `slik at'  
-> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 91, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=slik%20at](https://www.ordnett.no/search?language=no&phrase=slik%20at)  
+> [https://www.ordnett.no/search?language=no&phrase=dersom](https://www.ordnett.no/search?language=no&phrase=dersom)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9323,50 +9312,6 @@
 > Parent URL| <https://dfbr.github.io/subjunctions.html>, line 131, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=siden](https://www.ordnett.no/search?language=no&phrase=siden)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=at'  
-> ---|---  
-> Name| `at'  
-> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 87, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=at](https://www.ordnett.no/search?language=no&phrase=at)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=slik%20om'  
-> ---|---  
-> Name| `slik om'  
-> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 59, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=slik%20om](https://www.ordnett.no/search?language=no&phrase=slik%20om)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=slik%20som'  
-> ---|---  
-> Name| `slik som'  
-> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 95, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=slik%20som](https://www.ordnett.no/search?language=no&phrase=slik%20som)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=enn'  
-> ---|---  
-> Name| `enn'  
-> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 71, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=enn](https://www.ordnett.no/search?language=no&phrase=enn)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9394,12 +9339,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=hvis'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=slik%20om'  
 > ---|---  
-> Name| `hvis'  
-> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 79, col 5  
+> Name| `slik om'  
+> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 59, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=hvis](https://www.ordnett.no/search?language=no&phrase=hvis)  
+> [https://www.ordnett.no/search?language=no&phrase=slik%20om](https://www.ordnett.no/search?language=no&phrase=slik%20om)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9416,6 +9361,61 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=at'  
+> ---|---  
+> Name| `at'  
+> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 87, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=at](https://www.ordnett.no/search?language=no&phrase=at)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=mens'  
+> ---|---  
+> Name| `mens'  
+> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 83, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=mens](https://www.ordnett.no/search?language=no&phrase=mens)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=om'  
+> ---|---  
+> Name| `om'  
+> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 147, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=om](https://www.ordnett.no/search?language=no&phrase=om)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=hvis'  
+> ---|---  
+> Name| `hvis'  
+> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 79, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=hvis](https://www.ordnett.no/search?language=no&phrase=hvis)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=enn'  
+> ---|---  
+> Name| `enn'  
+> Parent URL| <https://dfbr.github.io/subjunctions.html>, line 71, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=enn](https://www.ordnett.no/search?language=no&phrase=enn)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `phrases.html'  
 > ---|---  
 > Name| `Phrases'  
@@ -9423,7 +9423,7 @@
 > Real URL| <https://dfbr.github.io/phrases.html>  
 > D/L time| 0.000 seconds  
 > Size| 24.29KB  
-> Check time| 2.283 seconds  
+> Check time| 2.862 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -9483,34 +9483,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=være%20noe%20for%20seg%20selv'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=kvalifiserte%20gjetninger'  
 > ---|---  
-> Name| `være noe for seg selv'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 103, col 5  
+> Name| `kvalifiserte gjetninger'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 483, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=v%C3%A6re%20noe%20for%20seg%20selv](https://www.ordnett.no/search?language=no&phrase=v%C3%A6re%20noe%20for%20seg%20selv)  
+> [https://www.ordnett.no/search?language=no&phrase=kvalifiserte%20gjetninger](https://www.ordnett.no/search?language=no&phrase=kvalifiserte%20gjetninger)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=etter%20å%20ha%20gitt'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=det%20får%20rast%20fra%20seg'  
 > ---|---  
-> Name| `etter å ha gitt'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 99, col 5  
+> Name| `det får rast fra seg'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 479, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=etter%20%C3%A5%20ha%20gitt](https://www.ordnett.no/search?language=no&phrase=etter%20%C3%A5%20ha%20gitt)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=tross%20alt'  
-> ---|---  
-> Name| `tross alt'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 307, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=tross%20alt](https://www.ordnett.no/search?language=no&phrase=tross%20alt)  
+> [https://www.ordnett.no/search?language=no&phrase=det%20f%C3%A5r%20rast%20fra%20seg](https://www.ordnett.no/search?language=no&phrase=det%20f%C3%A5r%20rast%20fra%20seg)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9527,12 +9516,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=hun%20kunne%20ikke%20gjerne'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=jeg%20skjønner%20det'  
 > ---|---  
-> Name| `hun kunne ikke gjerne'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 539, col 5  
+> Name| `jeg skjønner det'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 563, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=hun%20kunne%20ikke%20gjerne](https://www.ordnett.no/search?language=no&phrase=hun%20kunne%20ikke%20gjerne)  
+> [https://www.ordnett.no/search?language=no&phrase=jeg%20skj%C3%B8nner%20det](https://www.ordnett.no/search?language=no&phrase=jeg%20skj%C3%B8nner%20det)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9549,23 +9538,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=like%20etter'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20se%20seg%20om'  
 > ---|---  
-> Name| `like etter'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 531, col 5  
+> Name| `å se seg om'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 555, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=like%20etter](https://www.ordnett.no/search?language=no&phrase=like%20etter)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20se%20seg%20om](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20se%20seg%20om)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=det%20veldige%20verdensrommet'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=virke%20som%20om'  
 > ---|---  
-> Name| `det veldige verdensrommet'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 527, col 5  
+> Name| `virke som om'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 551, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=det%20veldige%20verdensrommet](https://www.ordnett.no/search?language=no&phrase=det%20veldige%20verdensrommet)  
+> [https://www.ordnett.no/search?language=no&phrase=virke%20som%20om](https://www.ordnett.no/search?language=no&phrase=virke%20som%20om)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9593,6 +9582,72 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=hun%20kunne%20ikke%20gjerne'  
+> ---|---  
+> Name| `hun kunne ikke gjerne'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 539, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=hun%20kunne%20ikke%20gjerne](https://www.ordnett.no/search?language=no&phrase=hun%20kunne%20ikke%20gjerne)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=det%20er%20alt%20som%20er%20igjen'  
+> ---|---  
+> Name| `det er alt som er igjen'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 535, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=det%20er%20alt%20som%20er%20igjen](https://www.ordnett.no/search?language=no&phrase=det%20er%20alt%20som%20er%20igjen)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=like%20etter'  
+> ---|---  
+> Name| `like etter'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 531, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=like%20etter](https://www.ordnett.no/search?language=no&phrase=like%20etter)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=det%20veldige%20verdensrommet'  
+> ---|---  
+> Name| `det veldige verdensrommet'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 527, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=det%20veldige%20verdensrommet](https://www.ordnett.no/search?language=no&phrase=det%20veldige%20verdensrommet)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=så%20forfra%20ikjen'  
+> ---|---  
+> Name| `så forfra ikjen'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 523, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=s%C3%A5%20forfra%20ikjen](https://www.ordnett.no/search?language=no&phrase=s%C3%A5%20forfra%20ikjen)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=så%20du%20måtte%20takke%20nei'  
+> ---|---  
+> Name| `så du måtte takke nei'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 519, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=s%C3%A5%20du%20m%C3%A5tte%20takke%20nei](https://www.ordnett.no/search?language=no&phrase=s%C3%A5%20du%20m%C3%A5tte%20takke%20nei)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=jeg%20var%20blitt%20presset'  
 > ---|---  
 > Name| `jeg var blitt presset'  
@@ -9604,34 +9659,34 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=virke%20som%20om'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=kunne%20jeg%20(ha)%20fått%20en%20kaffee'  
 > ---|---  
-> Name| `virke som om'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 551, col 5  
+> Name| `kunne jeg (ha) fått en kaffee'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 487, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=virke%20som%20om](https://www.ordnett.no/search?language=no&phrase=virke%20som%20om)  
+> [https://www.ordnett.no/search?language=no&phrase=kunne%20jeg%20%28ha%29%20f%C3%A5tt%20en%20kaffee](https://www.ordnett.no/search?language=no&phrase=kunne%20jeg%20%28ha%29%20f%C3%A5tt%20en%20kaffee)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=jeg%20skjønner%20det'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=er%20det%20noe%20han%20ikke%20får%20med%20seg'  
 > ---|---  
-> Name| `jeg skjønner det'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 563, col 5  
+> Name| `er det noe han ikke får med seg'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 475, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=jeg%20skj%C3%B8nner%20det](https://www.ordnett.no/search?language=no&phrase=jeg%20skj%C3%B8nner%20det)  
+> [https://www.ordnett.no/search?language=no&phrase=er%20det%20noe%20han%20ikke%20f%C3%A5r%20med%20seg](https://www.ordnett.no/search?language=no&phrase=er%20det%20noe%20han%20ikke%20f%C3%A5r%20med%20seg)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20se%20seg%20om'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=han%20grekker%20omsider%20pusten'  
 > ---|---  
-> Name| `å se seg om'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 555, col 5  
+> Name| `han grekker omsider pusten'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 471, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20se%20seg%20om](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20se%20seg%20om)  
+> [https://www.ordnett.no/search?language=no&phrase=han%20grekker%20omsider%20pusten](https://www.ordnett.no/search?language=no&phrase=han%20grekker%20omsider%20pusten)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9670,100 +9725,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=det%20er%20alt%20som%20er%20igjen'  
-> ---|---  
-> Name| `det er alt som er igjen'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 535, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=det%20er%20alt%20som%20er%20igjen](https://www.ordnett.no/search?language=no&phrase=det%20er%20alt%20som%20er%20igjen)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=kvalifiserte%20gjetninger'  
-> ---|---  
-> Name| `kvalifiserte gjetninger'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 483, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=kvalifiserte%20gjetninger](https://www.ordnett.no/search?language=no&phrase=kvalifiserte%20gjetninger)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=det%20får%20rast%20fra%20seg'  
-> ---|---  
-> Name| `det får rast fra seg'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 479, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=det%20f%C3%A5r%20rast%20fra%20seg](https://www.ordnett.no/search?language=no&phrase=det%20f%C3%A5r%20rast%20fra%20seg)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=er%20det%20noe%20han%20ikke%20får%20med%20seg'  
-> ---|---  
-> Name| `er det noe han ikke får med seg'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 475, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=er%20det%20noe%20han%20ikke%20f%C3%A5r%20med%20seg](https://www.ordnett.no/search?language=no&phrase=er%20det%20noe%20han%20ikke%20f%C3%A5r%20med%20seg)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=så%20du%20måtte%20takke%20nei'  
-> ---|---  
-> Name| `så du måtte takke nei'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 519, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=s%C3%A5%20du%20m%C3%A5tte%20takke%20nei](https://www.ordnett.no/search?language=no&phrase=s%C3%A5%20du%20m%C3%A5tte%20takke%20nei)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=så%20forfra%20ikjen'  
-> ---|---  
-> Name| `så forfra ikjen'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 523, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=s%C3%A5%20forfra%20ikjen](https://www.ordnett.no/search?language=no&phrase=s%C3%A5%20forfra%20ikjen)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=med%20det%20kan%20hende'  
 > ---|---  
 > Name| `med det kan hende'  
 > Parent URL| <https://dfbr.github.io/phrases.html>, line 511, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=med%20det%20kan%20hende](https://www.ordnett.no/search?language=no&phrase=med%20det%20kan%20hende)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=noen%20uker%20av%20gangen'  
-> ---|---  
-> Name| `noen uker av gangen'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 459, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=noen%20uker%20av%20gangen](https://www.ordnett.no/search?language=no&phrase=noen%20uker%20av%20gangen)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=kunne%20jeg%20(ha)%20fått%20en%20kaffee'  
-> ---|---  
-> Name| `kunne jeg (ha) fått en kaffee'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 487, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=kunne%20jeg%20%28ha%29%20f%C3%A5tt%20en%20kaffee](https://www.ordnett.no/search?language=no&phrase=kunne%20jeg%20%28ha%29%20f%C3%A5tt%20en%20kaffee)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9780,6 +9747,17 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=som%20guds%20tjenerinne'  
+> ---|---  
+> Name| `som guds tjenerinne'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 447, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=som%20guds%20tjenerinne](https://www.ordnett.no/search?language=no&phrase=som%20guds%20tjenerinne)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=til%20syvende%20og%20sist'  
 > ---|---  
 > Name| `til syvende og sist'  
@@ -9791,89 +9769,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=om%20vinteren'  
-> ---|---  
-> Name| `om vinteren'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 443, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=om%20vinteren](https://www.ordnett.no/search?language=no&phrase=om%20vinteren)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=av%20null%20og%20niks'  
-> ---|---  
-> Name| `av null og niks'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 439, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=av%20null%20og%20niks](https://www.ordnett.no/search?language=no&phrase=av%20null%20og%20niks)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=han%20tok%20feil'  
-> ---|---  
-> Name| `han tok feil'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 435, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=han%20tok%20feil](https://www.ordnett.no/search?language=no&phrase=han%20tok%20feil)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=få%20has%20på'  
-> ---|---  
-> Name| `få has på'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 431, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=f%C3%A5%20has%20p%C3%A5](https://www.ordnett.no/search?language=no&phrase=f%C3%A5%20has%20p%C3%A5)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=han%20grekker%20omsider%20pusten'  
-> ---|---  
-> Name| `han grekker omsider pusten'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 471, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=han%20grekker%20omsider%20pusten](https://www.ordnett.no/search?language=no&phrase=han%20grekker%20omsider%20pusten)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=jeg%20kjøpte%20det%20imidlertid%20ikke'  
-> ---|---  
-> Name| `jeg kjøpte det imidlertid ikke'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 423, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=jeg%20kj%C3%B8pte%20det%20imidlertid%20ikke](https://www.ordnett.no/search?language=no&phrase=jeg%20kj%C3%B8pte%20det%20imidlertid%20ikke)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=en%20eneste%20gang'  
-> ---|---  
-> Name| `en eneste gang'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 467, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=en%20eneste%20gang](https://www.ordnett.no/search?language=no&phrase=en%20eneste%20gang)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=etter%20hvert%20som%20Sofie%20tenkte%20over%20at%20hun%20var%20til...'  
 > ---|---  
 > Name| `etter hvert som Sofie tenkte over at hun var til...'  
 > Parent URL| <https://dfbr.github.io/phrases.html>, line 463, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=etter%20hvert%20som%20Sofie%20tenkte%20over%20at%20hun%20var%20til...](https://www.ordnett.no/search?language=no&phrase=etter%20hvert%20som%20Sofie%20tenkte%20over%20at%20hun%20var%20til...)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=noen%20uker%20av%20gangen'  
+> ---|---  
+> Name| `noen uker av gangen'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 459, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=noen%20uker%20av%20gangen](https://www.ordnett.no/search?language=no&phrase=noen%20uker%20av%20gangen)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9901,6 +9813,61 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=en%20eneste%20gang'  
+> ---|---  
+> Name| `en eneste gang'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 467, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=en%20eneste%20gang](https://www.ordnett.no/search?language=no&phrase=en%20eneste%20gang)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=på%20mange%20måter'  
+> ---|---  
+> Name| `på mange måter'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 419, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=p%C3%A5%20mange%20m%C3%A5ter](https://www.ordnett.no/search?language=no&phrase=p%C3%A5%20mange%20m%C3%A5ter)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=du%20har%20virkelig%20nydelig%20hår'  
+> ---|---  
+> Name| `du har virkelig nydelig hår'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 415, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=du%20har%20virkelig%20nydelig%20h%C3%A5r](https://www.ordnett.no/search?language=no&phrase=du%20har%20virkelig%20nydelig%20h%C3%A5r)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=et%20ekte%20lik'  
+> ---|---  
+> Name| `et ekte lik'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 411, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=et%20ekte%20lik](https://www.ordnett.no/search?language=no&phrase=et%20ekte%20lik)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=få%20has%20på'  
+> ---|---  
+> Name| `få has på'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 431, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=f%C3%A5%20has%20p%C3%A5](https://www.ordnett.no/search?language=no&phrase=f%C3%A5%20has%20p%C3%A5)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=det%20nesten%20ikke%20går%20an'  
 > ---|---  
 > Name| `det nesten ikke går an'  
@@ -9912,12 +9879,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=som%20guds%20tjenerinne'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=jeg%20kjøpte%20det%20imidlertid%20ikke'  
 > ---|---  
-> Name| `som guds tjenerinne'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 447, col 5  
+> Name| `jeg kjøpte det imidlertid ikke'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 423, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=som%20guds%20tjenerinne](https://www.ordnett.no/search?language=no&phrase=som%20guds%20tjenerinne)  
+> [https://www.ordnett.no/search?language=no&phrase=jeg%20kj%C3%B8pte%20det%20imidlertid%20ikke](https://www.ordnett.no/search?language=no&phrase=jeg%20kj%C3%B8pte%20det%20imidlertid%20ikke)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9934,12 +9901,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=det%20endte%20opp...'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=av%20null%20og%20niks'  
 > ---|---  
-> Name| `det endte opp...'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 391, col 5  
+> Name| `av null og niks'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 439, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=det%20endte%20opp...](https://www.ordnett.no/search?language=no&phrase=det%20endte%20opp...)  
+> [https://www.ordnett.no/search?language=no&phrase=av%20null%20og%20niks](https://www.ordnett.no/search?language=no&phrase=av%20null%20og%20niks)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9956,12 +9923,144 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=om%20vinteren'  
+> ---|---  
+> Name| `om vinteren'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 443, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=om%20vinteren](https://www.ordnett.no/search?language=no&phrase=om%20vinteren)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=han%20tok%20feil'  
+> ---|---  
+> Name| `han tok feil'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 435, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=han%20tok%20feil](https://www.ordnett.no/search?language=no&phrase=han%20tok%20feil)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=det%20er%20nok%20en%20nydelig%20morgen'  
+> ---|---  
+> Name| `det er nok en nydelig morgen'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 399, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=det%20er%20nok%20en%20nydelig%20morgen](https://www.ordnett.no/search?language=no&phrase=det%20er%20nok%20en%20nydelig%20morgen)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=rett%20og%20slett'  
+> ---|---  
+> Name| `rett og slett'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 371, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=rett%20og%20slett](https://www.ordnett.no/search?language=no&phrase=rett%20og%20slett)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=jeg%20innser%20nå%20at%20jeg%20ikke%20har%20spurt%20om%20...'  
+> ---|---  
+> Name| `jeg innser nå at jeg ikke har spurt om ...'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 367, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=jeg%20innser%20n%C3%A5%20at%20jeg%20ikke%20har%20spurt%20om%20...](https://www.ordnett.no/search?language=no&phrase=jeg%20innser%20n%C3%A5%20at%20jeg%20ikke%20har%20spurt%20om%20...)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=vi%20kan%20bare%20stikke%20innom'  
+> ---|---  
+> Name| `vi kan bare stikke innom'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 407, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=vi%20kan%20bare%20stikke%20innom](https://www.ordnett.no/search?language=no&phrase=vi%20kan%20bare%20stikke%20innom)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=hva%20som%20måtte%20skje'  
+> ---|---  
+> Name| `hva som måtte skje'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 359, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=hva%20som%20m%C3%A5tte%20skje](https://www.ordnett.no/search?language=no&phrase=hva%20som%20m%C3%A5tte%20skje)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20slå%20seg%20til%20ro'  
+> ---|---  
+> Name| `å slå seg til ro'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 403, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sl%C3%A5%20seg%20til%20ro](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sl%C3%A5%20seg%20til%20ro)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=i%20forbindelse%20med'  
+> ---|---  
+> Name| `i forbindelse med'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 351, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=i%20forbindelse%20med](https://www.ordnett.no/search?language=no&phrase=i%20forbindelse%20med)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=det%20endte%20opp...'  
+> ---|---  
+> Name| `det endte opp...'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 391, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=det%20endte%20opp...](https://www.ordnett.no/search?language=no&phrase=det%20endte%20opp...)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=hur%20tar%20feil'  
+> ---|---  
+> Name| `hur tar feil'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 343, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=hur%20tar%20feil](https://www.ordnett.no/search?language=no&phrase=hur%20tar%20feil)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=å%20være%20berettiget%20til'  
 > ---|---  
 > Name| `å være berettiget til'  
 > Parent URL| <https://dfbr.github.io/phrases.html>, line 383, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20v%C3%A6re%20berettiget%20til](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20v%C3%A6re%20berettiget%20til)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=jeg%20hare%20ikke%20noe%20imot'  
+> ---|---  
+> Name| `jeg hare ikke noe imot'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 355, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=jeg%20hare%20ikke%20noe%20imot](https://www.ordnett.no/search?language=no&phrase=jeg%20hare%20ikke%20noe%20imot)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -9989,89 +10088,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=på%20mange%20måter'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=en%20som%20sørger%20for%20noe'  
 > ---|---  
-> Name| `på mange måter'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 419, col 5  
+> Name| `en som sørger for noe'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 347, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=p%C3%A5%20mange%20m%C3%A5ter](https://www.ordnett.no/search?language=no&phrase=p%C3%A5%20mange%20m%C3%A5ter)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=et%20ekte%20lik'  
-> ---|---  
-> Name| `et ekte lik'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 411, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=et%20ekte%20lik](https://www.ordnett.no/search?language=no&phrase=et%20ekte%20lik)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=du%20har%20virkelig%20nydelig%20hår'  
-> ---|---  
-> Name| `du har virkelig nydelig hår'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 415, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=du%20har%20virkelig%20nydelig%20h%C3%A5r](https://www.ordnett.no/search?language=no&phrase=du%20har%20virkelig%20nydelig%20h%C3%A5r)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=vi%20kan%20bare%20stikke%20innom'  
-> ---|---  
-> Name| `vi kan bare stikke innom'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 407, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=vi%20kan%20bare%20stikke%20innom](https://www.ordnett.no/search?language=no&phrase=vi%20kan%20bare%20stikke%20innom)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=jeg%20hare%20ikke%20noe%20imot'  
-> ---|---  
-> Name| `jeg hare ikke noe imot'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 355, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=jeg%20hare%20ikke%20noe%20imot](https://www.ordnett.no/search?language=no&phrase=jeg%20hare%20ikke%20noe%20imot)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=det%20er%20nok%20en%20nydelig%20morgen'  
-> ---|---  
-> Name| `det er nok en nydelig morgen'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 399, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=det%20er%20nok%20en%20nydelig%20morgen](https://www.ordnett.no/search?language=no&phrase=det%20er%20nok%20en%20nydelig%20morgen)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20slå%20seg%20til%20ro'  
-> ---|---  
-> Name| `å slå seg til ro'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 403, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sl%C3%A5%20seg%20til%20ro](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20sl%C3%A5%20seg%20til%20ro)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=jeg%20innser%20nå%20at%20jeg%20ikke%20har%20spurt%20om%20...'  
-> ---|---  
-> Name| `jeg innser nå at jeg ikke har spurt om ...'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 367, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=jeg%20innser%20n%C3%A5%20at%20jeg%20ikke%20har%20spurt%20om%20...](https://www.ordnett.no/search?language=no&phrase=jeg%20innser%20n%C3%A5%20at%20jeg%20ikke%20har%20spurt%20om%20...)  
+> [https://www.ordnett.no/search?language=no&phrase=en%20som%20s%C3%B8rger%20for%20noe](https://www.ordnett.no/search?language=no&phrase=en%20som%20s%C3%B8rger%20for%20noe)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -10083,6 +10105,17 @@
 > Parent URL| <https://dfbr.github.io/phrases.html>, line 363, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=i%20samfunnet%20som%20omgir%20deg](https://www.ordnett.no/search?language=no&phrase=i%20samfunnet%20som%20omgir%20deg)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=i%20sommeren'  
+> ---|---  
+> Name| `i sommeren'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 339, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=i%20sommeren](https://www.ordnett.no/search?language=no&phrase=i%20sommeren)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -10116,72 +10149,6 @@
 > Parent URL| <https://dfbr.github.io/phrases.html>, line 327, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=fikk%20et%20slag](https://www.ordnett.no/search?language=no&phrase=fikk%20et%20slag)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=rett%20og%20slett'  
-> ---|---  
-> Name| `rett og slett'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 371, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=rett%20og%20slett](https://www.ordnett.no/search?language=no&phrase=rett%20og%20slett)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=hur%20tar%20feil'  
-> ---|---  
-> Name| `hur tar feil'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 343, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=hur%20tar%20feil](https://www.ordnett.no/search?language=no&phrase=hur%20tar%20feil)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=i%20sommeren'  
-> ---|---  
-> Name| `i sommeren'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 339, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=i%20sommeren](https://www.ordnett.no/search?language=no&phrase=i%20sommeren)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=hva%20som%20måtte%20skje'  
-> ---|---  
-> Name| `hva som måtte skje'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 359, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=hva%20som%20m%C3%A5tte%20skje](https://www.ordnett.no/search?language=no&phrase=hva%20som%20m%C3%A5tte%20skje)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=i%20forbindelse%20med'  
-> ---|---  
-> Name| `i forbindelse med'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 351, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=i%20forbindelse%20med](https://www.ordnett.no/search?language=no&phrase=i%20forbindelse%20med)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=en%20som%20sørger%20for%20noe'  
-> ---|---  
-> Name| `en som sørger for noe'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 347, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=en%20som%20s%C3%B8rger%20for%20noe](https://www.ordnett.no/search?language=no&phrase=en%20som%20s%C3%B8rger%20for%20noe)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -10226,6 +10193,17 @@
 > Parent URL| <https://dfbr.github.io/phrases.html>, line 311, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20v%C3%A6re%20innenfor%20h%C3%B8revidde](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20v%C3%A6re%20innenfor%20h%C3%B8revidde)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=tross%20alt'  
+> ---|---  
+> Name| `tross alt'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 307, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=tross%20alt](https://www.ordnett.no/search?language=no&phrase=tross%20alt)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -10319,6 +10297,72 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=grenser%20til'  
+> ---|---  
+> Name| `grenser til'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 271, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=grenser%20til](https://www.ordnett.no/search?language=no&phrase=grenser%20til)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=han%20skal%20ikke%20så%20langt'  
+> ---|---  
+> Name| `han skal ikke så langt'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 267, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=han%20skal%20ikke%20s%C3%A5%20langt](https://www.ordnett.no/search?language=no&phrase=han%20skal%20ikke%20s%C3%A5%20langt)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=han%20tar%20imidlertid%20ikke%20ille%20opp'  
+> ---|---  
+> Name| `han tar imidlertid ikke ille opp'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 263, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=han%20tar%20imidlertid%20ikke%20ille%20opp](https://www.ordnett.no/search?language=no&phrase=han%20tar%20imidlertid%20ikke%20ille%20opp)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=det%20går%20ikke%20an'  
+> ---|---  
+> Name| `det går ikke an'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 259, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=det%20g%C3%A5r%20ikke%20an](https://www.ordnett.no/search?language=no&phrase=det%20g%C3%A5r%20ikke%20an)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=om%20to%20måneder'  
+> ---|---  
+> Name| `om to måneder'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 255, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=om%20to%20m%C3%A5neder](https://www.ordnett.no/search?language=no&phrase=om%20to%20m%C3%A5neder)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=slapp%20ustraffet%20fra%20det%20hele'  
+> ---|---  
+> Name| `slapp ustraffet fra det hele'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 251, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=slapp%20ustraffet%20fra%20det%20hele](https://www.ordnett.no/search?language=no&phrase=slapp%20ustraffet%20fra%20det%20hele)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=godt%20betalt'  
 > ---|---  
 > Name| `godt betalt'  
@@ -10385,78 +10429,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=han%20tar%20imidlertid%20ikke%20ille%20opp'  
-> ---|---  
-> Name| `han tar imidlertid ikke ille opp'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 263, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=han%20tar%20imidlertid%20ikke%20ille%20opp](https://www.ordnett.no/search?language=no&phrase=han%20tar%20imidlertid%20ikke%20ille%20opp)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=det%20går%20ikke%20an'  
-> ---|---  
-> Name| `det går ikke an'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 259, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=det%20g%C3%A5r%20ikke%20an](https://www.ordnett.no/search?language=no&phrase=det%20g%C3%A5r%20ikke%20an)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=han%20skal%20ikke%20så%20langt'  
-> ---|---  
-> Name| `han skal ikke så langt'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 267, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=han%20skal%20ikke%20s%C3%A5%20langt](https://www.ordnett.no/search?language=no&phrase=han%20skal%20ikke%20s%C3%A5%20langt)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=grenser%20til'  
-> ---|---  
-> Name| `grenser til'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 271, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=grenser%20til](https://www.ordnett.no/search?language=no&phrase=grenser%20til)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=om%20to%20måneder'  
-> ---|---  
-> Name| `om to måneder'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 255, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=om%20to%20m%C3%A5neder](https://www.ordnett.no/search?language=no&phrase=om%20to%20m%C3%A5neder)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=skyldig%20på%20det%20punktet'  
 > ---|---  
 > Name| `skyldig på det punktet'  
 > Parent URL| <https://dfbr.github.io/phrases.html>, line 223, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=skyldig%20p%C3%A5%20det%20punktet](https://www.ordnett.no/search?language=no&phrase=skyldig%20p%C3%A5%20det%20punktet)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=slapp%20ustraffet%20fra%20det%20hele'  
-> ---|---  
-> Name| `slapp ustraffet fra det hele'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 251, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=slapp%20ustraffet%20fra%20det%20hele](https://www.ordnett.no/search?language=no&phrase=slapp%20ustraffet%20fra%20det%20hele)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -10550,12 +10528,144 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=han%20har%20rett'  
+> ---|---  
+> Name| `han har rett'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 187, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=han%20har%20rett](https://www.ordnett.no/search?language=no&phrase=han%20har%20rett)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=den%20fremmende%20piken'  
+> ---|---  
+> Name| `den fremmende piken'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 183, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=den%20fremmende%20piken](https://www.ordnett.no/search?language=no&phrase=den%20fremmende%20piken)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=helvete%20er%20løs'  
+> ---|---  
+> Name| `helvete er løs'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 179, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=helvete%20er%20l%C3%B8s](https://www.ordnett.no/search?language=no&phrase=helvete%20er%20l%C3%B8s)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=still%20deg%20i%20køen'  
+> ---|---  
+> Name| `still deg i køen'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 175, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=still%20deg%20i%20k%C3%B8en](https://www.ordnett.no/search?language=no&phrase=still%20deg%20i%20k%C3%B8en)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=til%20og%20med'  
+> ---|---  
+> Name| `til og med'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 171, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=til%20og%20med](https://www.ordnett.no/search?language=no&phrase=til%20og%20med)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=hva%20var%20vitsen'  
+> ---|---  
+> Name| `hva var vitsen'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 167, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=hva%20var%20vitsen](https://www.ordnett.no/search?language=no&phrase=hva%20var%20vitsen)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=noe%20enkelte%20mennesker'  
 > ---|---  
 > Name| `noe enkelte mennesker'  
 > Parent URL| <https://dfbr.github.io/phrases.html>, line 163, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=noe%20enkelte%20mennesker](https://www.ordnett.no/search?language=no&phrase=noe%20enkelte%20mennesker)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=hvorfor%20legger%20bildet%20ved%20siden%20av%20liket?'  
+> ---|---  
+> Name| `hvorfor legger bildet ved siden av liket?'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 135, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=hvorfor%20legger%20bildet%20ved%20siden%20av%20liket?](https://www.ordnett.no/search?language=no&phrase=hvorfor%20legger%20bildet%20ved%20siden%20av%20liket?)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=hagen%20for%20evig%20hvile'  
+> ---|---  
+> Name| `hagen for evig hvile'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 131, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=hagen%20for%20evig%20hvile](https://www.ordnett.no/search?language=no&phrase=hagen%20for%20evig%20hvile)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=tok%20seg%20av%20noen'  
+> ---|---  
+> Name| `tok seg av noen'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 127, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=tok%20seg%20av%20noen](https://www.ordnett.no/search?language=no&phrase=tok%20seg%20av%20noen)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=være%20noe%20for%20seg%20selv'  
+> ---|---  
+> Name| `være noe for seg selv'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 103, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=v%C3%A6re%20noe%20for%20seg%20selv](https://www.ordnett.no/search?language=no&phrase=v%C3%A6re%20noe%20for%20seg%20selv)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=bare%20for%20å%20kommer%20seg%20bort'  
+> ---|---  
+> Name| `bare for å kommer seg bort'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 143, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=bare%20for%20%C3%A5%20kommer%20seg%20bort](https://www.ordnett.no/search?language=no&phrase=bare%20for%20%C3%A5%20kommer%20seg%20bort)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=litt%20for%20mager'  
+> ---|---  
+> Name| `litt for mager'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 139, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=litt%20for%20mager](https://www.ordnett.no/search?language=no&phrase=litt%20for%20mager)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -10594,133 +10704,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=til%20og%20med'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=han%20var%20blitt%20vant%20til'  
 > ---|---  
-> Name| `til og med'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 171, col 5  
+> Name| `han var blitt vant til'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 79, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=til%20og%20med](https://www.ordnett.no/search?language=no&phrase=til%20og%20med)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=hva%20var%20vitsen'  
-> ---|---  
-> Name| `hva var vitsen'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 167, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=hva%20var%20vitsen](https://www.ordnett.no/search?language=no&phrase=hva%20var%20vitsen)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=han%20har%20rett'  
-> ---|---  
-> Name| `han har rett'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 187, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=han%20har%20rett](https://www.ordnett.no/search?language=no&phrase=han%20har%20rett)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=helvete%20er%20løs'  
-> ---|---  
-> Name| `helvete er løs'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 179, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=helvete%20er%20l%C3%B8s](https://www.ordnett.no/search?language=no&phrase=helvete%20er%20l%C3%B8s)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=still%20deg%20i%20køen'  
-> ---|---  
-> Name| `still deg i køen'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 175, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=still%20deg%20i%20k%C3%B8en](https://www.ordnett.no/search?language=no&phrase=still%20deg%20i%20k%C3%B8en)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=tok%20seg%20av%20noen'  
-> ---|---  
-> Name| `tok seg av noen'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 127, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=tok%20seg%20av%20noen](https://www.ordnett.no/search?language=no&phrase=tok%20seg%20av%20noen)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20være%20skrudd%20på'  
-> ---|---  
-> Name| `å være skrudd på'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 95, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20v%C3%A6re%20skrudd%20p%C3%A5](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20v%C3%A6re%20skrudd%20p%C3%A5)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=den%20fremmende%20piken'  
-> ---|---  
-> Name| `den fremmende piken'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 183, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=den%20fremmende%20piken](https://www.ordnett.no/search?language=no&phrase=den%20fremmende%20piken)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=litt%20for%20mager'  
-> ---|---  
-> Name| `litt for mager'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 139, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=litt%20for%20mager](https://www.ordnett.no/search?language=no&phrase=litt%20for%20mager)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=hvorfor%20legger%20bildet%20ved%20siden%20av%20liket?'  
-> ---|---  
-> Name| `hvorfor legger bildet ved siden av liket?'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 135, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=hvorfor%20legger%20bildet%20ved%20siden%20av%20liket?](https://www.ordnett.no/search?language=no&phrase=hvorfor%20legger%20bildet%20ved%20siden%20av%20liket?)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=hagen%20for%20evig%20hvile'  
-> ---|---  
-> Name| `hagen for evig hvile'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 131, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=hagen%20for%20evig%20hvile](https://www.ordnett.no/search?language=no&phrase=hagen%20for%20evig%20hvile)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=jeg%20kan%20ikke%20gjerne'  
-> ---|---  
-> Name| `jeg kan ikke gjerne'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 75, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=jeg%20kan%20ikke%20gjerne](https://www.ordnett.no/search?language=no&phrase=jeg%20kan%20ikke%20gjerne)  
+> [https://www.ordnett.no/search?language=no&phrase=han%20var%20blitt%20vant%20til](https://www.ordnett.no/search?language=no&phrase=han%20var%20blitt%20vant%20til)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -10737,45 +10726,12 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=bare%20for%20å%20kommer%20seg%20bort'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20være%20skrudd%20på'  
 > ---|---  
-> Name| `bare for å kommer seg bort'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 143, col 5  
+> Name| `å være skrudd på'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 95, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=bare%20for%20%C3%A5%20kommer%20seg%20bort](https://www.ordnett.no/search?language=no&phrase=bare%20for%20%C3%A5%20kommer%20seg%20bort)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=i%20alle%20tilfelle'  
-> ---|---  
-> Name| `i alle tilfelle'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 63, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=i%20alle%20tilfelle](https://www.ordnett.no/search?language=no&phrase=i%20alle%20tilfelle)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=dere%20skal%20ta%20dere%20av%20det'  
-> ---|---  
-> Name| `dere skal ta dere av det'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 59, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=dere%20skal%20ta%20dere%20av%20det](https://www.ordnett.no/search?language=no&phrase=dere%20skal%20ta%20dere%20av%20det)  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://www.ordnett.no/search?language=no&phrase=og%20hva%20var%20det%20hele?'  
-> ---|---  
-> Name| `og hva var det hele?'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 55, col 5  
-> Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=og%20hva%20var%20det%20hele?](https://www.ordnett.no/search?language=no&phrase=og%20hva%20var%20det%20hele?)  
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20v%C3%A6re%20skrudd%20p%C3%A5](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20v%C3%A6re%20skrudd%20p%C3%A5)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -10792,12 +10748,56 @@
 >  
 >  
 >  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=i%20alle%20tilfelle'  
+> ---|---  
+> Name| `i alle tilfelle'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 63, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=i%20alle%20tilfelle](https://www.ordnett.no/search?language=no&phrase=i%20alle%20tilfelle)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
 >  URL | `https://www.ordnett.no/search?language=no&phrase=jeg%20lover%20at%20...'  
 > ---|---  
 > Name| `jeg lover at ...'  
 > Parent URL| <https://dfbr.github.io/phrases.html>, line 83, col 5  
 > Real URL|
 > [https://www.ordnett.no/search?language=no&phrase=jeg%20lover%20at%20...](https://www.ordnett.no/search?language=no&phrase=jeg%20lover%20at%20...)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=og%20hva%20var%20det%20hele?'  
+> ---|---  
+> Name| `og hva var det hele?'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 55, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=og%20hva%20var%20det%20hele?](https://www.ordnett.no/search?language=no&phrase=og%20hva%20var%20det%20hele?)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=etter%20å%20ha%20gitt'  
+> ---|---  
+> Name| `etter å ha gitt'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 99, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=etter%20%C3%A5%20ha%20gitt](https://www.ordnett.no/search?language=no&phrase=etter%20%C3%A5%20ha%20gitt)  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=å%20gi%20et%20innrykk'  
+> ---|---  
+> Name| `å gi et innrykk'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 71, col 5  
+> Real URL|
+> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20gi%20et%20innrykk](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20gi%20et%20innrykk)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -10825,23 +10825,23 @@
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=han%20var%20blitt%20vant%20til'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=dere%20skal%20ta%20dere%20av%20det'  
 > ---|---  
-> Name| `han var blitt vant til'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 79, col 5  
+> Name| `dere skal ta dere av det'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 59, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=han%20var%20blitt%20vant%20til](https://www.ordnett.no/search?language=no&phrase=han%20var%20blitt%20vant%20til)  
+> [https://www.ordnett.no/search?language=no&phrase=dere%20skal%20ta%20dere%20av%20det](https://www.ordnett.no/search?language=no&phrase=dere%20skal%20ta%20dere%20av%20det)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no/search?language=no&phrase=å%20gi%20et%20innrykk'  
+>  URL | `https://www.ordnett.no/search?language=no&phrase=jeg%20kan%20ikke%20gjerne'  
 > ---|---  
-> Name| `å gi et innrykk'  
-> Parent URL| <https://dfbr.github.io/phrases.html>, line 71, col 5  
+> Name| `jeg kan ikke gjerne'  
+> Parent URL| <https://dfbr.github.io/phrases.html>, line 75, col 5  
 > Real URL|
-> [https://www.ordnett.no/search?language=no&phrase=%C3%A5%20gi%20et%20innrykk](https://www.ordnett.no/search?language=no&phrase=%C3%A5%20gi%20et%20innrykk)  
+> [https://www.ordnett.no/search?language=no&phrase=jeg%20kan%20ikke%20gjerne](https://www.ordnett.no/search?language=no&phrase=jeg%20kan%20ikke%20gjerne)  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -10854,7 +10854,7 @@
 > Real URL| <https://dfbr.github.io/links.html>  
 > D/L time| 0.000 seconds  
 > Size| 5KB  
-> Check time| 2.324 seconds  
+> Check time| 2.741 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -10870,22 +10870,33 @@
 >  
 >  
 >  
->  URL | `https://www.ntnu.edu/now/10/grammar'  
+>  URL | `https://nlsnorwegian.no/essential-norwegian-prepositions-top-25-list/'  
 > ---|---  
-> Name| `Prepositions'  
-> Parent URL| <https://dfbr.github.io/links.html>, line 82, col 5  
-> Real URL| <https://www.ntnu.edu/now/10/grammar>  
+> Name| `Prepositions from Norwegian Language School'  
+> Parent URL| <https://dfbr.github.io/links.html>, line 86, col 5  
+> Real URL| <https://nlsnorwegian.no/essential-norwegian-prepositions-
+> top-25-list/>  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.norwegianclass101.com/blog/2020/08/24/norwegian-pronouns/'  
+>  URL | `https://www.duolingo.com/course/no-BO/en/Learn-Norwegian%20Bokm%C3%A5l'  
 > ---|---  
-> Name| `Norwegian class pronouns'  
-> Parent URL| <https://dfbr.github.io/links.html>, line 78, col 5  
-> Real URL| <https://www.norwegianclass101.com/blog/2020/08/24/norwegian-
-> pronouns/>  
+> Name| `Duolingo Norwegian'  
+> Parent URL| <https://dfbr.github.io/links.html>, line 58, col 5  
+> Real URL| <https://www.duolingo.com/course/no-BO/en/Learn-
+> Norwegian%20Bokm%C3%A5l>  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://www.ordnett.no'  
+> ---|---  
+> Name| `ordnett.no'  
+> Parent URL| <https://dfbr.github.io/links.html>, line 54, col 5  
+> Real URL| <https://www.ordnett.no>  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -10896,17 +10907,6 @@
 > Name| `Norwegian On The Web vocabulary list'  
 > Parent URL| <https://dfbr.github.io/links.html>, line 74, col 5  
 > Real URL| <https://www.ntnu.edu/now/vocabulary/list>  
-> Info| The URL is outside of the domain filter, checked only syntax.  
-> Result| Valid: filtered  
->  
->  
->  
->  URL | `https://nlsnorwegian.no/essential-norwegian-prepositions-top-25-list/'  
-> ---|---  
-> Name| `Prepositions from Norwegian Language School'  
-> Parent URL| <https://dfbr.github.io/links.html>, line 86, col 5  
-> Real URL| <https://nlsnorwegian.no/essential-norwegian-prepositions-
-> top-25-list/>  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -10943,22 +10943,22 @@
 >  
 >  
 >  
->  URL | `https://www.duolingo.com/course/no-BO/en/Learn-Norwegian%20Bokm%C3%A5l'  
+>  URL | `https://www.ntnu.edu/now/10/grammar'  
 > ---|---  
-> Name| `Duolingo Norwegian'  
-> Parent URL| <https://dfbr.github.io/links.html>, line 58, col 5  
-> Real URL| <https://www.duolingo.com/course/no-BO/en/Learn-
-> Norwegian%20Bokm%C3%A5l>  
+> Name| `Prepositions'  
+> Parent URL| <https://dfbr.github.io/links.html>, line 82, col 5  
+> Real URL| <https://www.ntnu.edu/now/10/grammar>  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
 >  
 >  
->  URL | `https://www.ordnett.no'  
+>  URL | `https://www.norwegianclass101.com/blog/2020/08/24/norwegian-pronouns/'  
 > ---|---  
-> Name| `ordnett.no'  
-> Parent URL| <https://dfbr.github.io/links.html>, line 54, col 5  
-> Real URL| <https://www.ordnett.no>  
+> Name| `Norwegian class pronouns'  
+> Parent URL| <https://dfbr.github.io/links.html>, line 78, col 5  
+> Real URL| <https://www.norwegianclass101.com/blog/2020/08/24/norwegian-
+> pronouns/>  
 > Info| The URL is outside of the domain filter, checked only syntax.  
 > Result| Valid: filtered  
 >  
@@ -10969,7 +10969,7 @@
 >  URL lengths: min=22, max=122, avg=61.  
 >  
 >  That's it. 996 links checked. 0 warnings found. 0 errors found.  
->  Stopped checking at 2026-01-15 06:50:07+000 (6 seconds)
+>  Stopped checking at 2026-01-16 06:49:46+000 (6 seconds)
 
   
 
