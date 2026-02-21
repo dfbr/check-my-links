@@ -6,7 +6,7 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2026-02-20 07:11:55+000  
+> Start checking at 2026-02-21 06:58:36+000  
 >  
 >  
 >  URL | `https://onlythestoriesyouwant.link'  
@@ -14,17 +14,7 @@
 > Real URL| <https://onlythestoriesyouwant.link>  
 > D/L time| 0.000 seconds  
 > Size| 11.55KB  
-> Check time| 0.391 seconds  
-> Result| Valid: 200 OK  
->  
->  
->  
->  URL | `site.webmanifest'  
-> ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
-> Size| 211B  
-> Check time| 0.436 seconds  
+> Check time| 0.431 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -35,7 +25,17 @@
 > Real URL| <https://onlythestoriesyouwant.link/images/android-
 > chrome-192x192.png>  
 > Size| 55.88KB  
-> Check time| 0.639 seconds  
+> Check time| 0.431 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `styles.css'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 12, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/styles.css>  
+> Size| 1KB  
+> Check time| 0.453 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -46,17 +46,17 @@
 > Real URL| <https://onlythestoriesyouwant.link/images/android-
 > chrome-512x512.png>  
 > Size| 367.68KB  
-> Check time| 0.979 seconds  
+> Check time| 1.081 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
 >  
->  URL | `styles.css'  
+>  URL | `site.webmanifest'  
 > ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 12, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/styles.css>  
-> Size| 1KB  
-> Check time| 1.319 seconds  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
+> Size| 211B  
+> Check time| 1.208 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -66,7 +66,7 @@
 >  URL lengths: min=34, max=68, avg=53.  
 >  
 >  That's it. 5 links checked. 0 warnings found. 0 errors found.  
->  Stopped checking at 2026-02-20 07:11:57+000 (2 seconds)
+>  Stopped checking at 2026-02-21 06:58:39+000 (2 seconds)
 
   
 
