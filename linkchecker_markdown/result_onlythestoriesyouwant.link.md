@@ -6,7 +6,7 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2026-02-28 06:55:19+000  
+> Start checking at 2026-03-01 07:01:31+000  
 >  
 >  
 >  URL | `https://onlythestoriesyouwant.link'  
@@ -14,7 +14,7 @@
 > Real URL| <https://onlythestoriesyouwant.link>  
 > D/L time| 0.000 seconds  
 > Size| 11.55KB  
-> Check time| 0.396 seconds  
+> Check time| 0.167 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -24,28 +24,7 @@
 > Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
 > Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
 > Size| 211B  
-> Check time| 0.453 seconds  
-> Result| Valid: 200 OK  
->  
->  
->  
->  URL | `images/android-chrome-512x512.png'  
-> ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 8, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/images/android-
-> chrome-512x512.png>  
-> Size| 367.68KB  
-> Check time| 1.106 seconds  
-> Result| Valid: 200 OK  
->  
->  
->  
->  URL | `styles.css'  
-> ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 12, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/styles.css>  
-> Size| 1KB  
-> Check time| 1.268 seconds  
+> Check time| 0.475 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -56,7 +35,28 @@
 > Real URL| <https://onlythestoriesyouwant.link/images/android-
 > chrome-192x192.png>  
 > Size| 55.88KB  
-> Check time| 1.784 seconds  
+> Check time| 0.753 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `styles.css'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 12, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/styles.css>  
+> Size| 1KB  
+> Check time| 1.327 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `images/android-chrome-512x512.png'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 8, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/images/android-
+> chrome-512x512.png>  
+> Size| 367.68KB  
+> Check time| 1.730 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -66,7 +66,7 @@
 >  URL lengths: min=34, max=68, avg=53.  
 >  
 >  That's it. 5 links checked. 0 warnings found. 0 errors found.  
->  Stopped checking at 2026-02-28 06:55:22+000 (3 seconds)
+>  Stopped checking at 2026-03-01 07:01:34+000 (2 seconds)
 
   
 
