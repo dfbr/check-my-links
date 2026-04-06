@@ -6,7 +6,7 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2026-04-05 07:20:38+000  
+> Start checking at 2026-04-06 07:59:07+000  
 >  
 >  
 >  URL | `https://onlythestoriesyouwant.link'  
@@ -14,38 +14,7 @@
 > Real URL| <https://onlythestoriesyouwant.link>  
 > D/L time| 0.000 seconds  
 > Size| 11.55KB  
-> Check time| 0.287 seconds  
-> Result| Valid: 200 OK  
->  
->  
->  
->  URL | `site.webmanifest'  
-> ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
-> Size| 211B  
-> Check time| 0.511 seconds  
-> Result| Valid: 200 OK  
->  
->  
->  
->  URL | `images/android-chrome-512x512.png'  
-> ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 8, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/images/android-
-> chrome-512x512.png>  
-> Size| 367.68KB  
-> Check time| 0.911 seconds  
-> Result| Valid: 200 OK  
->  
->  
->  
->  URL | `styles.css'  
-> ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 12, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/styles.css>  
-> Size| 1KB  
-> Check time| 1.049 seconds  
+> Check time| 0.437 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -56,7 +25,38 @@
 > Real URL| <https://onlythestoriesyouwant.link/images/android-
 > chrome-192x192.png>  
 > Size| 55.88KB  
-> Check time| 1.562 seconds  
+> Check time| 0.416 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `images/android-chrome-512x512.png'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 8, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/images/android-
+> chrome-512x512.png>  
+> Size| 367.68KB  
+> Check time| 0.605 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `styles.css'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 12, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/styles.css>  
+> Size| 1KB  
+> Check time| 0.934 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `site.webmanifest'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
+> Size| 211B  
+> Check time| 1.435 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -66,7 +66,7 @@
 >  URL lengths: min=34, max=68, avg=53.  
 >  
 >  That's it. 5 links checked. 0 warnings found. 0 errors found.  
->  Stopped checking at 2026-04-05 07:20:41+000 (2 seconds)
+>  Stopped checking at 2026-04-06 07:59:10+000 (2 seconds)
 
   
 
