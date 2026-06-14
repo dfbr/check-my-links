@@ -6,7 +6,7 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2026-06-13 09:31:43+000  
+> Start checking at 2026-06-14 09:53:37+000  
 >  
 >  
 >  URL | `https://onlythestoriesyouwant.link'  
@@ -14,18 +14,17 @@
 > Real URL| <https://onlythestoriesyouwant.link>  
 > D/L time| 0.000 seconds  
 > Size| 11.55KB  
-> Check time| 0.192 seconds  
+> Check time| 0.181 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
 >  
->  URL | `images/android-chrome-192x192.png'  
+>  URL | `site.webmanifest'  
 > ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 7, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/images/android-
-> chrome-192x192.png>  
-> Size| 55.88KB  
-> Check time| 0.215 seconds  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
+> Size| 211B  
+> Check time| 0.345 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -36,17 +35,7 @@
 > Real URL| <https://onlythestoriesyouwant.link/images/android-
 > chrome-512x512.png>  
 > Size| 367.68KB  
-> Check time| 0.827 seconds  
-> Result| Valid: 200 OK  
->  
->  
->  
->  URL | `site.webmanifest'  
-> ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
-> Size| 211B  
-> Check time| 0.864 seconds  
+> Check time| 1.007 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -56,7 +45,18 @@
 > Parent URL| <https://onlythestoriesyouwant.link>, line 12, col 3  
 > Real URL| <https://onlythestoriesyouwant.link/styles.css>  
 > Size| 1KB  
-> Check time| 1.018 seconds  
+> Check time| 1.358 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `images/android-chrome-192x192.png'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 7, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/images/android-
+> chrome-192x192.png>  
+> Size| 55.88KB  
+> Check time| 1.777 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -66,7 +66,7 @@
 >  URL lengths: min=34, max=68, avg=53.  
 >  
 >  That's it. 5 links checked. 0 warnings found. 0 errors found.  
->  Stopped checking at 2026-06-13 09:31:45+000 (2 seconds)
+>  Stopped checking at 2026-06-14 09:53:40+000 (2 seconds)
 
   
 
