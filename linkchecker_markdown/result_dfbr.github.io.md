@@ -6,14 +6,14 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2026-06-19 10:54:34+000  
+> Start checking at 2026-06-20 09:34:23+000  
 >  
 >  
 >  URL | `https://dfbr.github.io/'  
 > ---|---  
 > Real URL| <https://dfbr.github.io/>  
 > Size| 5KB  
-> Check time| 0.271 seconds  
+> Check time| 0.099 seconds  
 > Result| Error: 404 Not Found  
 >  
 >  
@@ -23,7 +23,7 @@
 >  URL lengths: min=23, max=23, avg=23.  
 >  
 >  That's it. 1 link checked. 0 warnings found. 1 error found.  
->  Stopped checking at 2026-06-19 10:54:35+000 (1 seconds)
+>  Stopped checking at 2026-06-20 09:34:24+000 (1 seconds)
 
   
 
