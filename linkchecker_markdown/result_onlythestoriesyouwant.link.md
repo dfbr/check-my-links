@@ -6,7 +6,7 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2026-08-28 18:36:25+000  
+> Start checking at 2026-08-29 12:38:27+000  
 >  
 >  
 >  URL | `https://onlythestoriesyouwant.link'  
@@ -14,28 +14,7 @@
 > Real URL| <https://onlythestoriesyouwant.link>  
 > D/L time| 0.000 seconds  
 > Size| 11.55KB  
-> Check time| 0.196 seconds  
-> Result| Valid: 200 OK  
->  
->  
->  
->  URL | `site.webmanifest'  
-> ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
-> Size| 211B  
-> Check time| 0.107 seconds  
-> Result| Valid: 200 OK  
->  
->  
->  
->  URL | `images/android-chrome-512x512.png'  
-> ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 8, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/images/android-
-> chrome-512x512.png>  
-> Size| 367.68KB  
-> Check time| 0.612 seconds  
+> Check time| 0.354 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -46,7 +25,18 @@
 > Real URL| <https://onlythestoriesyouwant.link/images/android-
 > chrome-192x192.png>  
 > Size| 55.88KB  
-> Check time| 1.103 seconds  
+> Check time| 0.190 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `images/android-chrome-512x512.png'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 8, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/images/android-
+> chrome-512x512.png>  
+> Size| 367.68KB  
+> Check time| 0.392 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -56,17 +46,47 @@
 > Parent URL| <https://onlythestoriesyouwant.link>, line 12, col 3  
 > Real URL| <https://onlythestoriesyouwant.link/styles.css>  
 > Size| 1KB  
-> Check time| 1.279 seconds  
+> Check time| 0.535 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `https://cdn.jsdelivr.net/fontsource/fonts/nebula-sans@5.3.0/latin-700-normal.woff2'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link/styles.css>, line 21, col 11  
+> Real URL| <https://cdn.jsdelivr.net/fontsource/fonts/nebula-
+> sans@5.3.0/latin-700-normal.woff2>  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `https://cdn.jsdelivr.net/fontsource/fonts/nebula-sans@5.3.0/latin-500-normal.woff2'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link/styles.css>, line 13, col 11  
+> Real URL| <https://cdn.jsdelivr.net/fontsource/fonts/nebula-
+> sans@5.3.0/latin-500-normal.woff2>  
+> Info| The URL is outside of the domain filter, checked only syntax.  
+> Result| Valid: filtered  
+>  
+>  
+>  
+>  URL | `site.webmanifest'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
+> Size| 211B  
+> Check time| 0.824 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
 > _Statistics_  
 >  Content types: 2 image, 2 text, 0 video, 0 audio, 1 application, 0 mail and
-> 0 other.  
->  URL lengths: min=34, max=68, avg=53.  
+> 2 other.  
+>  URL lengths: min=34, max=82, avg=61.  
 >  
->  That's it. 5 links checked. 0 warnings found. 0 errors found.  
->  Stopped checking at 2026-08-28 18:36:28+000 (2 seconds)
+>  That's it. 7 links checked. 0 warnings found. 0 errors found.  
+>  Stopped checking at 2026-08-29 12:38:29+000 (2 seconds)
 
   
 
