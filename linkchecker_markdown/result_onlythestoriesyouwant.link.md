@@ -6,7 +6,7 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2026-09-03 11:07:48+000  
+> Start checking at 2026-09-04 11:11:10+000  
 >  
 >  
 >  URL | `https://onlythestoriesyouwant.link'  
@@ -14,18 +14,17 @@
 > Real URL| <https://onlythestoriesyouwant.link>  
 > D/L time| 0.000 seconds  
 > Size| 11.55KB  
-> Check time| 0.503 seconds  
+> Check time| 0.234 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
 >  
->  URL | `images/android-chrome-512x512.png'  
+>  URL | `site.webmanifest'  
 > ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 8, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/images/android-
-> chrome-512x512.png>  
-> Size| 367.68KB  
-> Check time| 0.532 seconds  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
+> Size| 211B  
+> Check time| 0.316 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -36,17 +35,18 @@
 > Real URL| <https://onlythestoriesyouwant.link/images/android-
 > chrome-192x192.png>  
 > Size| 55.88KB  
-> Check time| 0.534 seconds  
+> Check time| 0.707 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
 >  
->  URL | `site.webmanifest'  
+>  URL | `images/android-chrome-512x512.png'  
 > ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
-> Size| 211B  
-> Check time| 0.922 seconds  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 8, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/images/android-
+> chrome-512x512.png>  
+> Size| 367.68KB  
+> Check time| 1.279 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -56,7 +56,7 @@
 > Parent URL| <https://onlythestoriesyouwant.link>, line 12, col 3  
 > Real URL| <https://onlythestoriesyouwant.link/styles.css>  
 > Size| 1KB  
-> Check time| 1.043 seconds  
+> Check time| 1.751 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -86,7 +86,7 @@
 >  URL lengths: min=34, max=82, avg=61.  
 >  
 >  That's it. 7 links checked. 0 warnings found. 0 errors found.  
->  Stopped checking at 2026-09-03 11:07:51+000 (2 seconds)
+>  Stopped checking at 2026-09-04 11:11:13+000 (2 seconds)
 
   
 
