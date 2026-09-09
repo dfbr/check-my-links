@@ -6,7 +6,7 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2026-09-08 11:10:41+000  
+> Start checking at 2026-09-09 11:15:24+000  
 >  
 >  
 >  URL | `https://onlythestoriesyouwant.link'  
@@ -14,7 +14,7 @@
 > Real URL| <https://onlythestoriesyouwant.link>  
 > D/L time| 0.000 seconds  
 > Size| 11.55KB  
-> Check time| 0.401 seconds  
+> Check time| 0.306 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -24,7 +24,18 @@
 > Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
 > Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
 > Size| 211B  
-> Check time| 0.506 seconds  
+> Check time| 0.124 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `images/android-chrome-192x192.png'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 7, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/images/android-
+> chrome-192x192.png>  
+> Size| 55.88KB  
+> Check time| 0.332 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -35,7 +46,7 @@
 > Real URL| <https://onlythestoriesyouwant.link/images/android-
 > chrome-512x512.png>  
 > Size| 367.68KB  
-> Check time| 1.126 seconds  
+> Check time| 0.760 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -45,7 +56,7 @@
 > Parent URL| <https://onlythestoriesyouwant.link>, line 12, col 3  
 > Real URL| <https://onlythestoriesyouwant.link/styles.css>  
 > Size| 1KB  
-> Check time| 1.478 seconds  
+> Check time| 1.277 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -69,24 +80,13 @@
 > Result| Valid: filtered  
 >  
 >  
->  
->  URL | `images/android-chrome-192x192.png'  
-> ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 7, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/images/android-
-> chrome-192x192.png>  
-> Size| 55.88KB  
-> Check time| 1.988 seconds  
-> Result| Valid: 200 OK  
->  
->  
 > _Statistics_  
 >  Content types: 2 image, 2 text, 0 video, 0 audio, 1 application, 0 mail and
 > 2 other.  
 >  URL lengths: min=34, max=82, avg=61.  
 >  
 >  That's it. 7 links checked. 0 warnings found. 0 errors found.  
->  Stopped checking at 2026-09-08 11:10:44+000 (3 seconds)
+>  Stopped checking at 2026-09-09 11:15:26+000 (2 seconds)
 
   
 
