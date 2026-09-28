@@ -6,24 +6,24 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2026-09-27 11:56:30+000  
+> Start checking at 2026-09-28 13:45:20+000  
 >  
 >  
 >  URL | `https://dfbr.github.io/'  
 > ---|---  
 > Real URL| <https://dfbr.github.io/>  
-> Check time| 0.126 seconds  
-> Result| Error: ConnectionError: ('Connection aborted.',
-> ConnectionResetError(104, 'Connection reset by peer'))  
+> Size| 5KB  
+> Check time| 0.246 seconds  
+> Result| Error: 404 Not Found  
 >  
 >  
 > _Statistics_  
->  Content types: 0 image, 0 text, 0 video, 0 audio, 0 application, 0 mail and
-> 1 other.  
+>  Content types: 0 image, 1 text, 0 video, 0 audio, 0 application, 0 mail and
+> 0 other.  
 >  URL lengths: min=23, max=23, avg=23.  
 >  
 >  That's it. 1 link checked. 0 warnings found. 1 error found.  
->  Stopped checking at 2026-09-27 11:56:32+000 (1 seconds)
+>  Stopped checking at 2026-09-28 13:45:21+000 (1 seconds)
 
   
 
