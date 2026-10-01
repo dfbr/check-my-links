@@ -6,13 +6,13 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2026-09-30 12:27:32+000  
+> Start checking at 2026-10-01 13:04:06+000  
 >  
 >  
 >  URL | `https://fitforhospital.co.uk'  
 > ---|---  
 > Real URL| <https://fitforhospital.co.uk>  
-> Check time| 0.119 seconds  
+> Check time| 0.047 seconds  
 > Result| Error: ConnectionError:
 > HTTPSConnectionPool(host='fitforhospital.co.uk', port=443): Max retries
 > exceeded with url: / (Caused by
@@ -26,7 +26,7 @@
 >  URL lengths: min=28, max=28, avg=28.  
 >  
 >  That's it. 1 link checked. 0 warnings found. 1 error found.  
->  Stopped checking at 2026-09-30 12:27:33+000 (1 seconds)
+>  Stopped checking at 2026-10-01 13:04:07+000 (1 seconds)
 
   
 
