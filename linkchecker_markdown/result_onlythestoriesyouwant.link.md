@@ -6,7 +6,7 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2026-10-07 13:13:32+000  
+> Start checking at 2026-10-08 13:20:09+000  
 >  
 >  
 >  URL | `https://onlythestoriesyouwant.link'  
@@ -14,17 +14,7 @@
 > Real URL| <https://onlythestoriesyouwant.link>  
 > D/L time| 0.000 seconds  
 > Size| 15.21KB  
-> Check time| 0.284 seconds  
-> Result| Valid: 200 OK  
->  
->  
->  
->  URL | `site.webmanifest'  
-> ---|---  
-> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
-> Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
-> Size| 211B  
-> Check time| 0.268 seconds  
+> Check time| 0.495 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -35,7 +25,7 @@
 > Real URL| <https://onlythestoriesyouwant.link/images/android-
 > chrome-192x192.png>  
 > Size| 55.88KB  
-> Check time| 0.745 seconds  
+> Check time| 0.352 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -46,7 +36,17 @@
 > Real URL| <https://onlythestoriesyouwant.link/images/android-
 > chrome-512x512.png>  
 > Size| 367.68KB  
-> Check time| 1.022 seconds  
+> Check time| 0.789 seconds  
+> Result| Valid: 200 OK  
+>  
+>  
+>  
+>  URL | `site.webmanifest'  
+> ---|---  
+> Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
+> Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
+> Size| 211B  
+> Check time| 1.298 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -56,7 +56,7 @@
 > Parent URL| <https://onlythestoriesyouwant.link>, line 12, col 3  
 > Real URL| <https://onlythestoriesyouwant.link/styles.css>  
 > Size| 1KB  
-> Check time| 1.061 seconds  
+> Check time| 1.711 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -86,7 +86,7 @@
 >  URL lengths: min=34, max=82, avg=61.  
 >  
 >  That's it. 7 links checked. 0 warnings found. 0 errors found.  
->  Stopped checking at 2026-10-07 13:13:35+000 (2 seconds)
+>  Stopped checking at 2026-10-08 13:20:12+000 (3 seconds)
 
   
 
