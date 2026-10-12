@@ -6,7 +6,7 @@
 > you are welcome to redistribute it under certain conditions. Look at the
 > file `COPYING' within this distribution.  
 >  
-> Start checking at 2026-10-11 12:41:20+000  
+> Start checking at 2026-10-12 15:13:38+000  
 >  
 >  
 >  URL | `https://onlythestoriesyouwant.link'  
@@ -14,7 +14,7 @@
 > Real URL| <https://onlythestoriesyouwant.link>  
 > D/L time| 0.000 seconds  
 > Size| 15.21KB  
-> Check time| 0.152 seconds  
+> Check time| 0.175 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -25,7 +25,7 @@
 > Real URL| <https://onlythestoriesyouwant.link/images/android-
 > chrome-192x192.png>  
 > Size| 55.88KB  
-> Check time| 0.271 seconds  
+> Check time| 0.224 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -36,7 +36,7 @@
 > Real URL| <https://onlythestoriesyouwant.link/images/android-
 > chrome-512x512.png>  
 > Size| 367.68KB  
-> Check time| 0.555 seconds  
+> Check time| 0.451 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -46,7 +46,7 @@
 > Parent URL| <https://onlythestoriesyouwant.link>, line 6, col 3  
 > Real URL| <https://onlythestoriesyouwant.link/site.webmanifest>  
 > Size| 211B  
-> Check time| 0.755 seconds  
+> Check time| 0.620 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -56,7 +56,7 @@
 > Parent URL| <https://onlythestoriesyouwant.link>, line 12, col 3  
 > Real URL| <https://onlythestoriesyouwant.link/styles.css>  
 > Size| 1KB  
-> Check time| 0.942 seconds  
+> Check time| 0.989 seconds  
 > Result| Valid: 200 OK  
 >  
 >  
@@ -86,7 +86,7 @@
 >  URL lengths: min=34, max=82, avg=61.  
 >  
 >  That's it. 7 links checked. 0 warnings found. 0 errors found.  
->  Stopped checking at 2026-10-11 12:41:22+000 (2 seconds)
+>  Stopped checking at 2026-10-12 15:13:40+000 (2 seconds)
 
   
 
