@@ -1,8 +1,9 @@
 name: Link Check
 
 on:
-  schedule:
-    - cron: '14 6 * * *'  # Runs every day at 06:14 UTC
+  # Schedule disabled; re-enable by uncommenting.
+  # schedule:
+  #   - cron: '14 6 * * *'  # Runs every day at 06:14 UTC
   workflow_dispatch:      # Allows manual runs from the Actions tab
 
 jobs:
